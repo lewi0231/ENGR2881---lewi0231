@@ -8,7 +8,7 @@ ad=4
 # Question 'ae': Which layer best fits this statement: Responsible for electromagnetic spectrum allocation
 ae=1
 # Question 'af': Which layer best fits this statement: Serialises data structures so that they can be sent, received and correctly interpreted at the other end of a network
-af=
+af=4
 # Question 'ag': Which layer best fits this statement: Allows for the recovery of a lost connection
 ag=5
 # Question 'ah': Which layer best fits this statement: Responsible for logical link control
@@ -16,54 +16,54 @@ ah=2
 # Question 'ai': Which layer best fits this statement: Responsible for closing a connection, especially where it involves multiple resources
 ai=5
 # Question 'aj': Which layer best fits this statement: Responsible for the correct conversion of character encodings in a session
-aj=6
+aj=7
 # Question 'ak': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
 ak=4
 # Question 'al': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-al=
+al=4
 # Question 'am': Which layer best fits this statement: Responsible for selecting the best path between nodes
-am=
+am=3
 # Question 'an': Which layer best fits this statement: Facilitates connectionless communications between nodes on large networks
-an=
+an=3
 # Question 'ao': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-ao=
+ao=3
 # Question 'ap': Which layer best fits this statement: Responsible for data encryption
 ap=6
 # Question 'aq': Which layer best fits this statement: Provides the interface for programmes to access network services
-aq=
+aq=7
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: Fibre Channel Protocol (FCP)
-ar=
+ar=1
 # Question 'as': To which layer does this protocol correspond?: Apple Filing Protocol (AFP)
-as=
+as=6
 # Question 'at': To which layer does this protocol correspond?: Short Message Peer-to-Peer (SMPP)
-at=
+at=5
 # Question 'au': To which layer does this protocol correspond?: Simple Service Discovery Protocol
-au=
+au=7
 # Question 'av': To which layer does this protocol correspond?: L2TP
-av=
+av=2
 # Question 'aw': To which layer does this protocol correspond?: Econet
-aw=
+aw=2
 # Question 'ax': To which layer does this protocol correspond?: Cisco Discovery Protocol (CDP)
-ax=
+ax=2
 # Question 'ay': To which layer does this protocol correspond?: iSCSI
-ay=
+ay=4
 # Question 'az': To which layer does this protocol correspond?: NetBIOS
-az=
+az=5
 # Question 'ba': To which layer does this protocol correspond?: Server message block (SMB)
-ba=
+ba=2
 # Question 'bb': To which layer does this protocol correspond?: Transmission Control Protocol
-bb=
+bb=4
 # Question 'bc': To which layer does this protocol correspond?: Internet Protocol
-bc=
+bc=3
 # Question 'bd': To which layer does this protocol correspond?: Link Aggregation Control Protocol (LACP)
-bd=
+bd=2
 # Question 'be': To which layer does this protocol correspond?: HTTP
-be=
+be=7
 # Question 'bf': To which layer does this protocol correspond?: High-Level Data Link Control (HDLC)
-bf=
+bf=2
 # Question 'bg': To which layer does this protocol correspond?: FTP
-bg=
+bg=7
 # Question 'bh': Can applications on nodes 0 and 4 communicate?
 bh=
 # Question 'bi': If an application on node 2 sends 223 bytes of byte, how large would the PDU be at layer 6?
