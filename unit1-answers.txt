@@ -1,24 +1,24 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Responsible for routing packets among networks
-ab=
+ab=3
 # Question 'ac': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
-ac=
+ac=7
 # Question 'ad': Which layer best fits this statement: The layer where virtual circuits can be established
-ad=
+ad=4
 # Question 'ae': Which layer best fits this statement: Responsible for electromagnetic spectrum allocation
-ae=
+ae=1
 # Question 'af': Which layer best fits this statement: Serialises data structures so that they can be sent, received and correctly interpreted at the other end of a network
 af=
 # Question 'ag': Which layer best fits this statement: Allows for the recovery of a lost connection
-ag=
+ag=5
 # Question 'ah': Which layer best fits this statement: Responsible for logical link control
-ah=
+ah=2
 # Question 'ai': Which layer best fits this statement: Responsible for closing a connection, especially where it involves multiple resources
-ai=
+ai=5
 # Question 'aj': Which layer best fits this statement: Responsible for the correct conversion of character encodings in a session
-aj=
+aj=6
 # Question 'ak': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
-ak=
+ak=4
 # Question 'al': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
 al=
 # Question 'am': Which layer best fits this statement: Responsible for selecting the best path between nodes
@@ -28,7 +28,7 @@ an=
 # Question 'ao': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
 ao=
 # Question 'ap': Which layer best fits this statement: Responsible for data encryption
-ap=
+ap=6
 # Question 'aq': Which layer best fits this statement: Provides the interface for programmes to access network services
 aq=
 ## Specify the OSI Layer to which each protocol corresponds
