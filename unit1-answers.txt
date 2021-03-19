@@ -129,26 +129,26 @@ cl=2363
 # Question 'cm': How many milli-seconds would it take node 3 to send 3008 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 cm=1444
 # Question 'cn': Can applications on nodes 1 and 4 communicate?
-cn=
+cn=Y
 # Question 'co': If an application on node 2 sends 260 bytes of byte, how large would the PDU be at layer 6?
-co=
+co=323
 # Question 'cp': What is the data rate that is possible between nodes 2 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cp=
+cp=1649
 # Question 'cq': How many milli-seconds would it take node 2 to send 4126 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cq=
+cq=1035
 # Question 'cr': Can applications on nodes 4 and 1 communicate?
-cr=
+cr=N
 # Question 'cs': If an application on node 3 sends 654 bytes of byte, how large would the PDU be at layer 1?
-cs=
+cs=1026
 # Question 'ct': What is the data rate that is possible between nodes 3 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-ct=
+ct=638
 # Question 'cu': How many milli-seconds would it take node 3 to send 1247 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-cu=
+cu=534
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv=
+cv=Transmitting raw data (binary) efficiently and effectively.  For instance, to avoid a stream of 1's or 0's (which can impact the reliability of the data through) the PHYSICAL LAYER utilises data encoding methods such as 4b/5b in order to ensure that there is regular switching between 1's and 0's.  This also ensures that clock recovery is occuring (i.e., timing of the receiving host and sender are in sync).
 # Question 'cw': Reliability Challenge #1
-cw=
+cw=In order to check that transmitted data is error free, error checking methods such as a checksum algorithm or CRC (cyclic redundancy check) are utilised at the DATA LINK layer to determine if a frame needs to be resent and / or corrected (if possible).
 # Question 'cx': Reliability Challenge #2
 cx=
 # Question 'cy': Reliability Challenge #3
