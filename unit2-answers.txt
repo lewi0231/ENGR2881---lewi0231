@@ -1,0 +1,62 @@
+## Socket Programming General True or False Statements
+# Question 'ab': True or false: The bind() function for the C programming language creates a network socket and binds it to a network address
+ab=
+# Question 'ac': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
+ac=
+# Question 'ad': True or false: The read() function for the C programming language can be used to receive data from sockets.
+ad=
+# Question 'ae': True or false: The listen() function for the C programming language can limit how many connections a server can have queued.
+ae=
+# Question 'af': True or false: The accept() function for the C programming language creates a new socket for each received connection.
+af=
+# Question 'ag': True or false: The write() function for the C programming language can be used to write data to a socket.
+ag=
+# Question 'ah': True or false: The close() function for the C programming language closes a network socket.
+ah=
+# Question 'ai': True or false: The read() function for the C programming language can only be used to read from sockets.
+ai=
+# Question 'aj': True or false: The bind() function for the C programming language connects a network address to a network address
+aj=
+# Question 'ak': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
+ak=
+# Question 'al': True or false: A network socket includes port numbers as well as IP addresses
+al=
+# Question 'am': True or false: The recv() function for the C programming language is less flexible than the recvfrom() function.
+am=
+# Question 'an': True or false: The connect() function for the C programming language normally requires the network address and layer 4 address of the target.
+an=
+# Question 'ao': True or false: The accept() function for the C programming language changes a network socket that is waiting for network connections into an active connection.
+ao=
+# Question 'ap': True or false: The recv() function for the C programming language can only be used to read from sockets.
+ap=
+## Correct the lines in the supplied programme
+aq=
+ar=
+as=
+at=
+au=
+av=
+aw=
+ax=
+ay=
+az=
+ba=
+bb=
+bc=
+bd=
+be=
+bf=
+## Correct the lines in the supplied programme
+bg=
+bh=
+bi=
+bj=
+bk=
+bl=
+bm=
+bn=
+bo=
+bp=
+bq=
+br=
+bs=
