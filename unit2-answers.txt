@@ -1,62 +1,62 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The bind() function for the C programming language creates a network socket and binds it to a network address
-ab=
+ab=t
 # Question 'ac': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
-ac=
+ac=f
 # Question 'ad': True or false: The read() function for the C programming language can be used to receive data from sockets.
-ad=
+ad=t
 # Question 'ae': True or false: The listen() function for the C programming language can limit how many connections a server can have queued.
-ae=
+ae=t
 # Question 'af': True or false: The accept() function for the C programming language creates a new socket for each received connection.
-af=
+af=t
 # Question 'ag': True or false: The write() function for the C programming language can be used to write data to a socket.
-ag=
+ag=t
 # Question 'ah': True or false: The close() function for the C programming language closes a network socket.
-ah=
+ah=t
 # Question 'ai': True or false: The read() function for the C programming language can only be used to read from sockets.
-ai=
+ai=f
 # Question 'aj': True or false: The bind() function for the C programming language connects a network address to a network address
-aj=
+aj=f
 # Question 'ak': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
-ak=
+ak=t
 # Question 'al': True or false: A network socket includes port numbers as well as IP addresses
-al=
+al=t
 # Question 'am': True or false: The recv() function for the C programming language is less flexible than the recvfrom() function.
-am=
+am=t
 # Question 'an': True or false: The connect() function for the C programming language normally requires the network address and layer 4 address of the target.
-an=
+an=f
 # Question 'ao': True or false: The accept() function for the C programming language changes a network socket that is waiting for network connections into an active connection.
-ao=
+ao=t
 # Question 'ap': True or false: The recv() function for the C programming language can only be used to read from sockets.
-ap=
+ap=f
 ## Correct the lines in the supplied programme
-aq=
-ar=
-as=
-at=
-au=
-av=
-aw=
-ax=
-ay=
-az=
-ba=
-bb=
-bc=
-bd=
-be=
-bf=
+aq=15
+ar=11
+as=6
+at=13
+au=4
+av=10
+aw=1
+ax=7
+ay=0
+az=14
+ba=8
+bb=5
+bc=9
+bd=2
+be=3
+bf=12
 ## Correct the lines in the supplied programme
-bg=
-bh=
-bi=
-bj=
-bk=
-bl=
-bm=
-bn=
-bo=
-bp=
-bq=
-br=
-bs=
+bg=3
+bh=9
+bi=7
+bj=2
+bk=1
+bl=12
+bm=5
+bn=0
+bo=6
+bp=8
+bq=4
+br=10
+bs=11
