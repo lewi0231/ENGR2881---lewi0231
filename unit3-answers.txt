@@ -1,83 +1,83 @@
 # Question 'ab': True or false: The topology of this network is a star
 ab=f
 # Question 'ac': True or false: The topology of this network is a ring
-ac=f
+ac=t
 # Question 'ad': True or false: The topology of this network is a ring
 ad=f
 # Question 'ae': True or false: The topology of this network is a ad-hoc
 ae=f
 # Question 'af': True or false: The topology of this network is a line
-af=t
+af=f
 # Question 'ag': True or false: The topology of this network is a line
 ag=f
 # Question 'ah': True or false: The topology of this network is a full mesh
 ah=t
 # Question 'ai': True or false: The topology of this network is a star
-ai=
+ai=f
 # Question 'aj': True or false: The topology of this network is a ad-hoc
-aj=
+aj=t
 # Question 'ak': True or false: The topology of this network is a line
-ak=
+ak=f
 # Question 'al': True or false: The topology of this network is a ad-hoc
-al=
+al=t
 # Question 'am': True or false: The topology of this network is a wireless
-am=
+am=t
 # Question 'an': True or false: The topology of this network is a ring
-an=
+an=t
 # Question 'ao': True or false: The topology of this network is a tree
-ao=
+ao=t
 # Question 'ap': True or false: The topology of this network is a ad-hoc
-ap=
+ap=t
 # Question 'aq': True or false: The topology of this network is a line
-aq=
+aq=f
 # Question 'ar': True or false: The topology of this network is a bus
-ar=
+ar=t
 # Question 'as': True or false: The topology of this network is a line
-as=
+as=f
 # Question 'at': True or false: The topology of this network is a tree
-at=
+at=t
 # Question 'au': True or false: The topology of this network is a tree
-au=
+au=f
 # Question 'av': True or false: The topology of this network is a tree
-av=
+av=f
 # Question 'aw': True or false: The topology of this network is a tree
-aw=
+aw=f
 # Question 'ax': True or false: The topology of this network is a bus
-ax=
+ax=f
 # Question 'ay': True or false: The topology of this network is a tree
-ay=
+ay=f
 # Question 'az': True or false: The topology of this network is a ad-hoc
-az=
+az=f
 # Question 'ba': True or false: The topology of this network is a full mesh
-ba=
+ba=f
 # Question 'bb': True or false: The topology of this network is a bus
-bb=
+bb=f
 # Question 'bc': True or false: The topology of this network is a star
-bc=
+bc=f
 # Question 'bd': True or false: The topology of this network is a star
-bd=
+bd=f
 # Question 'be': True or false: The topology of this network is a tree
-be=
+be=f
 # Question 'bf': True or false: The topology of this network is a ad-hoc
-bf=
+bf=f
 # Question 'bg': True or false: The topology of this network is a ring
-bg=
+bg=f
 # Question 'bh': True or false: The topology of this network is a line
-bh=
+bh=f
 # Question 'bi': True or false: The topology of this network is a star
-bi=
+bi=f
 # Question 'bj': True or false: The topology of this network is a line
-bj=
+bj=f
 # Question 'bk': True or false: The topology of this network is a wireless
-bk=
+bk=f
 # Question 'bl': True or false: The topology of this network is a ad-hoc
-bl=
+bl=f
 # Question 'bm': True or false: The topology of this network is a ring
-bm=
+bm=f
 # Question 'bn': True or false: The topology of this network is a bus
-bn=
+bn=t
 # Question 'bo': True or false: The topology of this network is a bus
-bo=
+bo=f
 # Question 'bp': Define a network that consists of a tree network and a star network connected by a router}
 BEGIN:bp
 END:bp
