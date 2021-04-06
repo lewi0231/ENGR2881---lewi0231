@@ -80,15 +80,44 @@ bn=t
 bo=f
 # Question 'bp': Define a network that consists of a tree network and a star network connected by a router}
 BEGIN:bp
+router1 switch1
+router1 node1
+node1 node2
+node2 laptop1
+node2 node3
+node4 switch1:2
+node5 switch1:4
+node6 switch:7
+node7 switch:5
 END:bp
 # Question 'bq': Define a network that consists of a line network and a line network connected by a laptop}
 BEGIN:bq
+laptop1 switch1
+switch2 switch1
+switch3 switch2
+switch4 switch3
+laptop1 node1
+node2 node1
+node3 node2
+node4 node3
 END:bq
 # Question 'br': Define a network that consists of a tree network and a full mesh network connected by a bus}
 BEGIN:br
+bus4 node1
+node2 node1
+node2 node3
+node4 node3
+bus4 switch3
+switch4 switch3
+switch3 switch5
+switch4 switch5
+switch5 switch6
+switch3 switch6
+switch4 switch6
 END:br
 # Question 'bs': Define a network that consists of a ad-hoc network and a tree network connected by a router}
 BEGIN:bs
+
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a star network connected by a laptop}
 BEGIN:bt
