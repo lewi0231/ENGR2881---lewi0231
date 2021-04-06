@@ -7,11 +7,11 @@ ad=f
 # Question 'ae': True or false: The topology of this network is a ad-hoc
 ae=f
 # Question 'af': True or false: The topology of this network is a line
-af=
+af=t
 # Question 'ag': True or false: The topology of this network is a line
-ag=
+ag=f
 # Question 'ah': True or false: The topology of this network is a full mesh
-ah=
+ah=t
 # Question 'ai': True or false: The topology of this network is a star
 ai=
 # Question 'aj': True or false: The topology of this network is a ad-hoc
