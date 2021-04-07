@@ -117,28 +117,99 @@ switch4 switch6
 END:br
 # Question 'bs': Define a network that consists of a ad-hoc network and a tree network connected by a router}
 BEGIN:bs
-
+router1 node5
+node6 node5
+node7 node6
+node8 node6
+router1 router2
+router3 router2
+router4 router2
+router5 router3
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a star network connected by a laptop}
 BEGIN:bt
+laptop5 router1
+router2 router1
+router3 router2
+router4 router3
+router5 router1
+router5 router4
+laptop5 switch3
+node3 switch3
+node5 switch3
+node8 switch3
+node9 switch3
+
 END:bt
 # Question 'bu': Define a network that consists of a bus network and a ring network connected by a laptop}
 BEGIN:bu
+laptop9 switch3
+node3 switch3
+node5 switch3
+node8 switch3
+node9 switch3
+node1 switch3
+laptop9 bus4
+switch4 bus4
+switch6 bus4
+switch7 bus4
 END:bu
 # Question 'bv': Define a network that consists of a full mesh network and a wireless network connected by a laptop}
 BEGIN:bv
+laptop4 router1
+router2 router1
+router3 router2
+router3 router1
+router4 router3
+router4 router2
+router4 router2
+laptop4 ap3
+node1 ap3
+node7 ap3
+node8 ap3
 END:bv
 # Question 'bw': Define a network that consists of a wireless network and a wireless network connected by a switch}
 BEGIN:bw
+switch3 ap4
+node3 ap4
+node4 ap4
+node5 ap4
+switch3 ap5
+node1 ap5
+node2 ap5
+node9 ap5
 END:bw
 # Question 'bx': Define a network that consists of a tree network and a star network connected by a switch}
 BEGIN:bx
+switch2 switch9
+node1 switch9
+node2 switch9
+node3 switch9
+node4 switch9
+switch2 node9
+node8 node9
+node7 node9
+node6 node7
+laptop4 node7
+
 END:bx
 # Question 'by': Define a network that consists of a ring network and a ad-hoc network connected by a switch}
 BEGIN:by
+switch1 router1
+router2 router1
+router3 router2
+router4 router3
+router4 router1
+switch1 laptop3
+laptop4 laptop3
+laptop5 laptop3
+laptop6 laptop4
+
 END:by
 # Question 'bz': Define a network that consists of a tree network and a ring network connected by a bus}
 BEGIN:bz
+
+
 END:bz
 # Question 'ca': Define a network that consists of a star network and a line network connected by a switch}
 BEGIN:ca
