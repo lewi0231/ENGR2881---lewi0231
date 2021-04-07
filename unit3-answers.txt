@@ -208,41 +208,151 @@ laptop6 laptop4
 END:by
 # Question 'bz': Define a network that consists of a tree network and a ring network connected by a bus}
 BEGIN:bz
-
-
+bus4 router1
+router2 router1
+router3 router2
+router4 router3
+router4 router1
+bus4 node9
+node8 node9
+node7 node9
+node6 node7
+laptop4 node7
 END:bz
 # Question 'ca': Define a network that consists of a star network and a line network connected by a switch}
 BEGIN:ca
+switch2 switch9
+node1 switch9
+node2 switch9
+node3 switch9
+node4 switch9
+switch2 laptop1
+laptop2 laptop1
+node3 laptop2
+
 END:ca
 # Question 'cb': Define a network that consists of a ad-hoc network and a tree network connected by a node}
 BEGIN:cb
+node1 laptop3
+laptop4 laptop3
+laptop5 laptop3
+laptop6 laptop4
+node1 node9
+node8 node9
+node7 node9
+node6 node7
+laptop4 node6
+
 END:cb
 # Question 'cc': Define a network that consists of a tree network and a line network connected by a switch}
 BEGIN:cc
+switch3 node9
+node8 node9
+node7 node9
+node6 node7
+laptop4 node6
+laptop3 node6
+switch3 laptop3
+laptop4 laptop3
+node7 laptop4
+node8 node7
 END:cc
 # Question 'cd': Define a network that consists of a full mesh network and a tree network connected by a laptop}
 BEGIN:cd
+laptop4 router1
+router2 router1
+router3 router2
+router3 router1
+router4 router3
+router4 router2
+router4 router2
+laptop4 node5
+node6 node5
+node7 node6
+node8 node6
+node9 node8
+
 END:cd
 # Question 'ce': Define a network that consists of a bus network and a line network connected by a node}
 BEGIN:ce
+node4 bus4
+switch4 bus4
+switch6 bus4
+switch7 bus4
+node4 laptop3
+laptop4 laptop3
+node7 laptop4
+node8 node7
+
 END:ce
 # Question 'cf': Define a network that consists of a wireless network and a full mesh network connected by a bus}
 BEGIN:cf
+bus4 router1
+router2 router1
+router3 router2
+router3 router1
+router4 router3
+router4 router2
+router4 router2
+bus4 ap5
+node3 ap5
+noe7 ap5
+node9 ap5
+
 END:cf
 # Question 'cg': Define a network that consists of a ring network and a bus network connected by a router}
 BEGIN:cg
+router3 bus4
+node8 bus4
+node7 bus4
+node9 bus4
+router3 switch4
+switch5 switch4
+siwtch6 switch6
+switch7 switch6
+switch7 switch4
+
+
 END:cg
 # Question 'ch': Define a network that consists of a line network and a bus network connected by a bus}
 BEGIN:ch
+bus5 bus4
+switch4 bus4
+switch6 bus4
+switch7 bus4
+bus5 laptop3
+laptop4 laptop3
+node7 laptop4
+node8 node7
+
+
 END:ch
 # Question 'ci': Define a network that consists of a ad-hoc network and a ring network connected by a switch}
 BEGIN:ci
+
+switch1 node3
+node4 node3
+node5 node4
+node6 node5
+node6 node3
+switch1 laptop3
+laptop4 laptop3
+laptop5 laptop3
+laptop6 laptop4
+node9 laptop5
+node9 laptop4
+
 END:ci
 # Question 'ci': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:ci
+
+Star topology
+
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Peer-to-Peer architecture}
 BEGIN:cj
+Full mesh topology
+
 END:cj
 ## Write statements that are true or false for various lecture slides.
 cl=
