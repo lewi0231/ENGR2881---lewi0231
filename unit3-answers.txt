@@ -360,22 +360,22 @@ cl=
 cl=When setting up PVC's (permanent virtual circuits) signalling is almost never used.
 cl=QUIZ:0:28:3
 # Question 'cl': Write a false statement about the content of Slide 23 of Chapter 4
-cl=
+cl=IPv6 was introduced to improve datagram forwarding efficiency, previously (IPv4) the destination address was NOT located at the beginning of the datagram making it more timely to determine the next hop.
 cl=QUIZ:0:23:4
 # Question 'cl': Write a false statement about the content of Slide 11 of Chapter 2
-cl=
+cl=CATV (Cable TV) is generally considered to have the highest bandwidth.
 cl=QUIZ:0:11:2
 # Question 'cl': Write a true statement about the content of Slide 25 of Chapter 2
-cl=
+cl=BISYNC (Binary Synchronous Communication) Protocol uses a special SYN character to mark the beginning of a frame.
 cl=QUIZ:1:25:2
 # Question 'cl': Write a false statement about the content of Slide 55 of Chapter 2
-cl=
+cl=With respect to the reliable trasmission of data, if the sender has not received an acknowledgement within a specified period of time the sender sends a confirmation frame (attempting to confirm that the frame has been received).
 cl=QUIZ:0:55:2
 # Question 'cl': Write a true statement about the content of Slide 20 of Chapter 2
-cl=
+cl=In 4B/5B encoding no pair of 5-bit codes results in more than three consecutive 0’s.
 cl=QUIZ:1:20:2
 # Question 'cl': Write a true statement about the content of Slide 60 of Chapter 2
-cl=
+cl=The stop and wait protocol means that the sender only ever has one outstanding frame on the link at a time.  
 cl=QUIZ:1:60:2
 # Question 'cl': Write a false statement about the content of Slide 62 of Chapter 3
 cl=The spanning tree algorithm is particularly important, in part due to it's ability to scale well.
