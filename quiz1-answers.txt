@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: Greater bandwidth implies a faster network
+ab=
+# Question 'ac': True or false: BISYNC requires the use of data-link escape characters
+ac=
+# Question 'ad': True or false: Checksums and parity checks were introduce to provide stronger transmission error detection than CRCs can provide
+ad=
+# Question 'ae': True or false: In 802.11, the control field is used to indicate whether a frame has been forwarded via a distribution system or not
+ae=
+# Question 'af': True or false: The network layer is responsible for routing packets among nodes in a packet switched network
+af=
+# Question 'ag': True or false: NRZ is the method for encoding binary signals on computer networks
+ag=
+# Question 'ah': True or false: In a virtual-circuit network, the sender has no idea whether the network can deliver a packet to a given recipient, or even if the recipient exists or is on the network
+ah=
+# Question 'ai': True or false: Receivers using the Sliding Window Protocol must keep track of the receiving window size, last frame sent and number of outstanding acknowledgements 
+ai=
+# Question 'aj': True or false: A disadvantage with Manchester encoding is that it doubles the rate of signal transitions
+aj=
+# Question 'ak': True or false: Latency is the sum of propagation, transmission and queue time
+ak=
+# Question 'al': True or false: ISDN is many times faster than dial-up connections
+al=
+# Question 'am': True or false: When any node receives a CTS frame, it indicates that it is its turn to transmit
+am=
+# Question 'an': True or false: Two-dimensional parity is able to catch all 1, 2 and 3 bit errors.
+an=
+# Question 'ao': True or false: The 802.11 distribution system requires that at least one client is within range of each pair of access points in a given system, so that frames can be relayed between the access points.
+ao=
+# Question 'ap': True or false: LAN, MAN, WAN and SAN are all acronyms for types of networks
+ap=
+# Question 'aq': True or false: Bit-oriented data framing protocols are not suitable for byte-oriented data streams
+aq=
+# Question 'ar': True or false: A network socket is the point where a local application process attaches to the network
+ar=
+# Question 'as': True or false: In the worst case, it can take as many as 512 bits of transmission before collision on an Ethernet can be detected
+as=
+# Question 'at': True or false: Ethernet adaptors rely on ACKs and timeouts to detect when collisions occur
+at=
+# Question 'au': True or false: Routers need only implement the lower layers of a network protocol stack
+au=
+# Question 'av': True or false: The higher the bandwidth delay product, the easier it is to keep the network fully utilised
+av=
+# Question 'aw': True or false: Protocols define the interface between layers in a network stack
+aw=
+# Question 'ax': True or false: Certain frequency bands do not require a license to use
+ax=
+# Question 'ay': True or false: Ethernet frames must contain at least 46 bytes of data
+ay=
+# Question 'az': True or false: The virtual circuit identifier of incoming and outgoing packets for a given virtual circuit on a switch must match
+az=
+# Question 'ba': True or false: A client normally selects the local port number it uses when making a connection.
+ba=
+# Question 'bb': True or false: Signals placed on the Ethernet are directed to the intended receiver only, unless it is a broadcast frame
+bb=
+# Question 'bc': True or false: Network adaptors concern themselves primarily with the encoding and decoding of individual bits.  Frame boundaries are generally detected by the main processor of the computer, because it is much faster than the processor included in a network adaptor.
+bc=
+# Question 'bd': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the final destination
+bd=
+# Question 'be': True or false: Wireless technologies differ considerably in the bandwidth and range of communications that they facilitate
+be=
+# Question 'bf': True or false: The presentation layer is responsible for the format of data exchanged between peers
+bf=
+# Question 'bg': True or false: To create a socket using the socket API the socket() function call is used
+bg=
+# Question 'bh': True or false: The bind() function call links a socket to a specific network and transport address (IP address and port)
+bh=
+# Question 'bi': True or false: 4B/5B encoding is less efficient than Manchester encoding, because of the extra bits it has to send
+bi=
+# Question 'bj': True or false: The network API provides the syntax by which network services can be accessed
+bj=
+# Question 'bk': True or false: Ethernet addresses are 6 bytes long
+bk=
+# Question 'bl': True or false: Ethernet does not work as well under heavy load conditions as some other alternatives, such as token ring
+bl=
+# Question 'bm': True or false: Variation in latency is a problem for audio/video conferencing
+bm=
+# Question 'bn': True or false: Switches can implement either datagram or virtual circuit approaches
+bn=
+# Question 'bo': True or false: BISYNC is a byte-oriented framing protocol
+bo=
+# Question 'bp': True or false: The Sending Window Size and the Receiving Window Size can be different sizes
+bp=
+# Question 'bq': True or false: An Ethernet adaptor will normal receive all frames addressed to its own Ethernet address, to the broadcast address or to the multi-cast address range
+bq=
+# Question 'br': True or false: The exposed node problem occurs when a node can hear the transmission from multiple nodes that cannot hear each others transmissions, and thus they might all transmit at the same time, causing a collision
+br=
+# Question 'bs': True or false: Each switch must construct both switching tables and routing tables to fulfil its functions
+bs=
+# Question 'bt': True or false: If a sender does not receive an acknowledgement after a reasonable amount of time, it resends the acknowledgement.
+bt=
+# Question 'bu': True or false: Request and Reply are the two most common types of communications channel
+bu=
+# Question 'bv': True or false: In 10Base2, the 2 refers to the maximum segment length
+bv=
+# Question 'bw': True or false: Ethernet is the most successful local area networking technology over recent decades
+bw=
+# Question 'bx': True or false: The broadcast address on an Ethernet network consists of all 1s
+bx=
+# Question 'by': True or false: In 802.11, access points respond to client association requests with an association response frame
+by=
+# Question 'bz': True or false: Setting the maximum sequence number to double the Receiving Window Size ensures that the receiver cannot be confused
+bz=
+# Question 'ca': True or false: 802.11g is backwards compatible with 802.11a
+ca=
+# Question 'cb': True or false: The ALOHA packet radio network was developed from Ethernet as the pre-cursor to 802.11 Wi-Fi
+cb=
+# Question 'cc': True or false: Modulation is the process of modifying a signal, typically the frequency, amplitude or phase
+cc=
+# Question 'cd': True or false: 802.11 uses special frames to enable senders to reserve a short period of time in which they can send a frame
+cd=
+# Question 'ce': True or false: Two-dimensional parity calculates both odd and even parity for each each byte to increase its strength
+ce=
+# Question 'cf': True or false: With infinite bandwidth, latency dominates
+cf=
+# Question 'cg': True or false: Ethernet addresses are determined by the host
+cg=
+# Question 'ch': True or false: Mobility between base stations is not a property of all commonly used wireless communications technologies
+ch=
+# Question 'ci': True or false: A logical channel is a network path that meets the specified logical requirements
+ci=
+# Question 'cj': True or false: Switching and forwarding relies on the assumption that each device has a globally unique address
+cj=
+# Question 'ck': True or false: Both sender and receiver must implement the same error detection algorithm
+ck=
+# Question 'cl': True or false: Fibre-optics typically uses frequencies that are in the X-Ray band
+cl=
+# Question 'cm': True or false: Eavesdropping on network traffic is not a network reliability problem
+cm=
+# Question 'cn': True or false: A switch is connected to a set of links, which must all us the same data link protocol
+cn=
+# Question 'co': True or false: Processing is increasingly occurring in access networks, with it becoming possible to even call some ``mini data centres''
+co=
+# Question 'cp': True or false: Delay bounded delivery of data is an important requirement to consider when designing a network application
+cp=
+# Question 'cq': True or false: Each entry in a virtual-circuit table must contain the source and destination of the address of the end points, a virtual circuit identifier and the outgoing interface for the circuit
+cq=
+# Question 'cr': True or false: Increasing the signal-to-noise ratio increases the noise-induced errors of a link
+cr=
+# Question 'cs': True or false: In an internet protocol graph application protocols appear at the top, and the networks at the bottom
+cs=
+# Question 'ct': True or false: No more than four devices can be connected to each Ethernet repeater, before an additional repeater is required
+ct=
+# Question 'cu': True or false: Circuit Switched and Packet Switched are two kinds of store-and-forward technologies
+cu=
+# Question 'cv': True or false: Error detection involves adding one or more extra bits to a frame whose values are dependent on the values of all of the other bits in the frame
+cv=
+# Question 'cw': True or false: The IP address must be discovered before an HTTP request can be made
+cw=
+# Question 'cx': True or false: In the stop-and-wait protocol only one data frame can be pending acknowledgement at a time
+cx=
