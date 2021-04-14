@@ -355,7 +355,7 @@ Full mesh topology
 
 END:cj
 ## Write statements that are true or false for various lecture slides.
-cl=
+cl=y
 # Question 'cl': Write a false statement about the content of Slide 28 of Chapter 3
 cl=When setting up PVC's (permanent virtual circuits) signalling is almost never used.
 cl=QUIZ:0:28:3
@@ -381,8 +381,8 @@ cl=QUIZ:1:60:2
 cl=The spanning tree algorithm is particularly important, in part due to it's ability to scale well.
 cl=QUIZ:0:62:3
 # Question 'cl': Write a false statement about the content of Slide 35 of Chapter 2
-cl=
+cl=In Ethernet, a frame carrying up to 12,000 bits of data requires only 32-bit Checksum
 cl=QUIZ:0:35:2
 # Question 'cl': Write a false statement about the content of Slide 101 of Chapter 3
-cl=
+cl=The Distance Vector class of protocols begins by assuming that cost of the link to all other nodes is zero. 
 cl=QUIZ:0:101:3
