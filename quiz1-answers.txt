@@ -128,24 +128,24 @@ cl=t
 # Question 'cm': True or false: Eavesdropping on network traffic is not a network reliability problem
 cm=t
 # Question 'cn': True or false: A switch is connected to a set of links, which must all us the same data link protocol
-cn=
+cn=f
 # Question 'co': True or false: Processing is increasingly occurring in access networks, with it becoming possible to even call some ``mini data centres''
-co=
+co=f
 # Question 'cp': True or false: Delay bounded delivery of data is an important requirement to consider when designing a network application
-cp=
+cp=t
 # Question 'cq': True or false: Each entry in a virtual-circuit table must contain the source and destination of the address of the end points, a virtual circuit identifier and the outgoing interface for the circuit
-cq=
+cq=f
 # Question 'cr': True or false: Increasing the signal-to-noise ratio increases the noise-induced errors of a link
-cr=
+cr=f
 # Question 'cs': True or false: In an internet protocol graph application protocols appear at the top, and the networks at the bottom
-cs=
+cs=t
 # Question 'ct': True or false: No more than four devices can be connected to each Ethernet repeater, before an additional repeater is required
-ct=
+ct=f
 # Question 'cu': True or false: Circuit Switched and Packet Switched are two kinds of store-and-forward technologies
-cu=
+cu=f
 # Question 'cv': True or false: Error detection involves adding one or more extra bits to a frame whose values are dependent on the values of all of the other bits in the frame
-cv=
+cv=t
 # Question 'cw': True or false: The IP address must be discovered before an HTTP request can be made
-cw=
+cw=t
 # Question 'cx': True or false: In the stop-and-wait protocol only one data frame can be pending acknowledgement at a time
-cx=
+cx=t
