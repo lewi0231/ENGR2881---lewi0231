@@ -349,40 +349,37 @@ BEGIN:cj
 Star topology
 
 END:cj
-# Question 'ck': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+# Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
+END:ck
+# Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+BEGIN:cl
 Full mesh topology
 
-END:ck
+END:cl
+# Question 'cm': Describe your peer-to-peer network topology.
+BEGIN:cm
+END:cm
 ## Write statements that are true or false for various lecture slides.
-ck=y
-# Question 'cl': Write a false statement about the content of Slide 28 of Chapter 3
-cl=When setting up PVC's (permanent virtual circuits) signalling is almost never used.
-cl=QUIZ:0:28:3
-# Question 'cm': Write a false statement about the content of Slide 23 of Chapter 4
-cm=IPv6 was introduced to improve datagram forwarding efficiency, previously (IPv4) the destination address was NOT located at the beginning of the datagram making it more timely to determine the next hop.
-cm=QUIZ:0:23:4
-# Question 'cn': Write a false statement about the content of Slide 11 of Chapter 2
-cn=CATV (Cable TV) is generally considered to have the highest bandwidth.
-cn=QUIZ:0:11:2
-# Question 'co': Write a true statement about the content of Slide 25 of Chapter 2
-co=BISYNC (Binary Synchronous Communication) Protocol uses a special SYN character to mark the beginning of a frame.
-co=QUIZ:1:25:2
-# Question 'cp': Write a false statement about the content of Slide 55 of Chapter 2
-cp=With respect to the reliable trasmission of data, if the sender has not received an acknowledgement within a specified period of time the sender sends a confirmation frame (attempting to confirm that the frame has been received).
-cp=QUIZ:0:55:2
-# Question 'cq': Write a true statement about the content of Slide 20 of Chapter 2
-cq=In 4B/5B encoding no pair of 5-bit codes results in more than three consecutive 0’s.
-cq=QUIZ:1:20:2
-# Question 'cr': Write a true statement about the content of Slide 60 of Chapter 2
-cr=The stop and wait protocol means that the sender only ever has one outstanding frame on the link at a time.  
-cr=QUIZ:1:60:2
-# Question 'cs': Write a false statement about the content of Slide 62 of Chapter 3
-cs=The spanning tree algorithm is particularly important, in part due to it's ability to scale well.
-cs=QUIZ:0:62:3
-# Question 'ct': Write a false statement about the content of Slide 35 of Chapter 2
-ct=In Ethernet, a frame carrying up to 12,000 bits of data requires only 32-bit Checksum
-ct=QUIZ:0:35:2
-# Question 'cu': Write a false statement about the content of Slide 101 of Chapter 3
-cu=The Distance Vector class of protocols begins by assuming that cost of the link to all other nodes is zero. 
-cu=QUIZ:0:101:3
+# Question 'cn': Do you grant your following quiz questions to the public domain?
+cn=y
+# Question 'co': Write a false statement about the content of Slide 28 of Chapter 3
+co=When setting up PVC's (permanent virtual circuits) signalling is almost never used.
+# Question 'cp': Write a false statement about the content of Slide 23 of Chapter 4
+cp=IPv6 was introduced to improve datagram forwarding efficiency, previously (IPv4) the destination address was NOT located at the beginning of the datagram making it more timely to determine the next hop.
+# Question 'cq': Write a false statement about the content of Slide 11 of Chapter 2
+cq=CATV (Cable TV) is generally considered to have the highest bandwidth.
+# Question 'cr': Write a true statement about the content of Slide 25 of Chapter 2
+cr=BISYNC (Binary Synchronous Communication) Protocol uses a special SYN character to mark the beginning of a frame.
+# Question 'cs': Write a false statement about the content of Slide 55 of Chapter 2
+cs=With respect to the reliable trasmission of data, if the sender has not received an acknowledgement within a specified period of time the sender sends a confirmation frame (attempting to confirm that the frame has been received).
+# Question 'ct': Write a true statement about the content of Slide 20 of Chapter 2
+ct=In 4B/5B encoding no pair of 5-bit codes results in more than three consecutive 0’s.
+# Question 'cu': Write a true statement about the content of Slide 60 of Chapter 2
+cu=The stop and wait protocol means that the sender only ever has one outstanding frame on the link at a time.  
+# Question 'cv': Write a false statement about the content of Slide 62 of Chapter 3
+cv=The spanning tree algorithm is particularly important, in part due to it's ability to scale well.
+# Question 'cw': Write a false statement about the content of Slide 35 of Chapter 2
+cw=In Ethernet, a frame carrying up to 12,000 bits of data requires only 32-bit Checksum
+# Question 'cx': Write a false statement about the content of Slide 101 of Chapter 3
+cx=The Distance Vector class of protocols begins by assuming that cost of the link to all other nodes is zero. 
