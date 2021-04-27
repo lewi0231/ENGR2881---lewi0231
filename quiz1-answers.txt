@@ -90,7 +90,7 @@ bs=f
 # Question 'bt': True or false: If a sender does not receive an acknowledgement after a reasonable amount of time, it resends the acknowledgement.
 bt=t
 # Question 'bu': True or false: Request and Reply are the two most common types of communications channel
-bu=t
+bu=f
 # Question 'bv': True or false: In 10Base2, the 2 refers to the maximum segment length
 bv=t
 # Question 'bw': True or false: Ethernet is the most successful local area networking technology over recent decades
