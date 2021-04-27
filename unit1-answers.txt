@@ -8,7 +8,7 @@ ad=4
 # Question 'ae': Which layer best fits this statement: Responsible for electromagnetic spectrum allocation
 ae=1
 # Question 'af': Which layer best fits this statement: Serialises data structures so that they can be sent, received and correctly interpreted at the other end of a network
-af=4
+af=3
 # Question 'ag': Which layer best fits this statement: Allows for the recovery of a lost connection
 ag=5
 # Question 'ah': Which layer best fits this statement: Responsible for logical link control
@@ -16,7 +16,7 @@ ah=2
 # Question 'ai': Which layer best fits this statement: Responsible for closing a connection, especially where it involves multiple resources
 ai=5
 # Question 'aj': Which layer best fits this statement: Responsible for the correct conversion of character encodings in a session
-aj=7
+aj=6
 # Question 'ak': Which layer best fits this statement: Corrects the order of received packets, if they are received out of order
 ak=4
 # Question 'al': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
@@ -33,7 +33,7 @@ ap=6
 aq=7
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: Fibre Channel Protocol (FCP)
-ar=1
+ar=4
 # Question 'as': To which layer does this protocol correspond?: Apple Filing Protocol (AFP)
 as=6
 # Question 'at': To which layer does this protocol correspond?: Short Message Peer-to-Peer (SMPP)
@@ -51,7 +51,7 @@ ay=4
 # Question 'az': To which layer does this protocol correspond?: NetBIOS
 az=5
 # Question 'ba': To which layer does this protocol correspond?: Server message block (SMB)
-ba=2
+ba=5
 # Question 'bb': To which layer does this protocol correspond?: Transmission Control Protocol
 bb=4
 # Question 'bc': To which layer does this protocol correspond?: Internet Protocol
@@ -87,7 +87,7 @@ bq=700
 # Question 'br': What is the data rate that is possible between nodes 1 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
 br=3634
 # Question 'bs': How many milli-seconds would it take node 1 to send 7135 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=165
+bs=30
 # Question 'bt': Can applications on nodes 3 and 5 communicate?
 bt=N
 # Question 'bu': If an application on node 2 sends 142 bytes of byte, how large would the PDU be at layer 7?
@@ -95,15 +95,15 @@ bu=230
 # Question 'bv': What is the data rate that is possible between nodes 2 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
 bv=5214
 # Question 'bw': How many milli-seconds would it take node 2 to send 5950 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=698
+bw=485
 # Question 'bx': Can applications on nodes 5 and 0 communicate?
 bx=N
 # Question 'by': If an application on node 5 sends 646 bytes of byte, how large would the PDU be at layer 2?
-by=977
+by=1046
 # Question 'bz': What is the data rate that is possible between nodes 5 and 0? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=1010
+bz=2377
 # Question 'ca': How many milli-seconds would it take node 5 to send 1091 bytes of data to node 0? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=1151
+ca=1065
 # Question 'cb': Can applications on nodes 0 and 2 communicate?
 cb=Y
 # Question 'cc': If an application on node 3 sends 522 bytes of byte, how large would the PDU be at layer 5?
