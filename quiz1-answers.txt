@@ -1,6 +1,6 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: Greater bandwidth implies a faster network
-ab=f
+ab=t
 # Question 'ac': True or false: BISYNC requires the use of data-link escape characters
 ac=t
 # Question 'ad': True or false: Checksums and parity checks were introduce to provide stronger transmission error detection than CRCs can provide
@@ -10,7 +10,7 @@ ae=t
 # Question 'af': True or false: The network layer is responsible for routing packets among nodes in a packet switched network
 af=t
 # Question 'ag': True or false: NRZ is the method for encoding binary signals on computer networks
-ag=t
+ag=f
 # Question 'ah': True or false: In a virtual-circuit network, the sender has no idea whether the network can deliver a packet to a given recipient, or even if the recipient exists or is on the network
 ah=f
 # Question 'ai': True or false: Receivers using the Sliding Window Protocol must keep track of the receiving window size, last frame sent and number of outstanding acknowledgements 
