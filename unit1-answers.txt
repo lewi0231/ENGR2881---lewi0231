@@ -109,9 +109,9 @@ cb=Y
 # Question 'cc': If an application on node 3 sends 522 bytes of byte, how large would the PDU be at layer 5?
 cc=652
 # Question 'cd': What is the data rate that is possible between nodes 3 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=393
+cd=1281
 # Question 'ce': How many milli-seconds would it take node 3 to send 6957 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ce=1419
+ce=751
 # Question 'cf': Can applications on nodes 3 and 1 communicate?
 cf=N
 # Question 'cg': If an application on node 5 sends 330 bytes of byte, how large would the PDU be at layer 5?
