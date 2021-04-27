@@ -2,7 +2,7 @@
 # Question 'ab': True or false: Greater bandwidth implies a faster network
 ab=t
 # Question 'ac': True or false: BISYNC requires the use of data-link escape characters
-ac=t
+ac=f
 # Question 'ad': True or false: Checksums and parity checks were introduce to provide stronger transmission error detection than CRCs can provide
 ad=f
 # Question 'ae': True or false: In 802.11, the control field is used to indicate whether a frame has been forwarded via a distribution system or not
