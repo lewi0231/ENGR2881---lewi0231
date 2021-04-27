@@ -1,0 +1,15 @@
+unit3 PROVISIONAL GRADE: DN
+
+NOTE: Changes made after Tue Apr 27 13:46:00 2021 +0930 have not yet been graded.
+
+SUMMARY: 40 true/false and yes/no questions: 26 correct, 14 incorrect.
+         (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
+         1 normal questions, 1 correct.
+         34 long-form questions, grade distribution: Ix2 Fx2 Px0 CRx6 DNx2 HDx22
+
+ANSWERS GRADED I:  ck cm
+ANSWERS GRADED F:  cc cj
+ANSWERS GRADED P: 
+ANSWERS GRADED CR: bu ca cb cd cf cg
+ANSWERS GRADED DN: bp cw
+ANSWERS GRADED HD: bq br bs bt bv bw bx by bz ce ch ci cl co cp cq cr cs ct cu cv cx
