@@ -1,0 +1,34 @@
+## Demonstrate an understanding of current methods for secure information transfer}
+# Question 'ab': Write not more than 250 words about 'digital signatures'
+BEGIN:ab
+END:ab
+# Question 'ac': Write not more than 250 words about 'cryptographic algorithm vulnerabilities (eg those faced by RC4)'
+BEGIN:ac
+END:ac
+## Demonstrate an understanding of emerging methods for secure information transfer}
+# Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
+BEGIN:ad
+END:ad
+## Write statements that are true or false for various lecture slides.
+## Write statements that are true or false for various lecture slides.
+ae=
+# Question 'af': Write a false statement about the content of Slide 30 of Chapter 1
+af=
+# Question 'ag': Write a false statement about the content of Slide 39 of Chapter 3
+ag=
+# Question 'ah': Write a false statement about the content of Slide 22 of Chapter 3
+ah=
+# Question 'ai': Write a true statement about the content of Slide 56 of Chapter 3
+ai=
+# Question 'aj': Write a false statement about the content of Slide 42 of Chapter 4
+aj=
+# Question 'ak': Write a false statement about the content of Slide 111 of Chapter 2
+ak=
+# Question 'al': Write a false statement about the content of Slide 2 of Chapter 4
+al=
+# Question 'am': Write a false statement about the content of Slide 43 of Chapter 3
+am=
+# Question 'an': Write a false statement about the content of Slide 9 of Chapter 4
+an=
+# Question 'ao': Write a true statement about the content of Slide 95 of Chapter 3
+ao=
