@@ -1,6 +1,7 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'digital signatures'
 BEGIN:ab
+A digital signature is used to ensure the authenticity, confidentiality and integrity of data sent over a network.  It works with the sender first using a hash algorithm to “hash” the data then the hashed data is encrypted using a private key, this is referred to as a “signed document”.  Upon receipt of the signed document the receiver verifies it by applying the same hash function to the original document and comparing this result against the decrypted (with a public key that has been provided) “signed document”.  If the two match then the data is valid.
 END:ab
 # Question 'ac': Write not more than 250 words about 'cryptographic algorithm vulnerabilities (eg those faced by RC4)'
 BEGIN:ac
