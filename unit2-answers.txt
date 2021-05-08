@@ -1,6 +1,6 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The bind() function for the C programming language creates a network socket and binds it to a network address
-ab=t
+ab=f
 # Question 'ac': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
 ac=f
 # Question 'ad': True or false: The read() function for the C programming language can be used to receive data from sockets.
@@ -16,7 +16,7 @@ ah=t
 # Question 'ai': True or false: The read() function for the C programming language can only be used to read from sockets.
 ai=f
 # Question 'aj': True or false: The bind() function for the C programming language connects a network address to a network address
-aj=f
+aj=t
 # Question 'ak': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
 ak=t
 # Question 'al': True or false: A network socket includes port numbers as well as IP addresses
