@@ -21,17 +21,17 @@ af=A socket may be defined as the point where a network stack connects to the ph
 # Question 'ag': Write a false statement about the content of Slide 39 of Chapter 3
 ag=Source routing is when information is sent accross the network with a forwarding table: that table directs the data through the network.  
 # Question 'ah': Write a false statement about the content of Slide 22 of Chapter 3
-ah=
+ah=Virtual circuits are always permanent.  Meaning that need to be removed manually.
 # Question 'ai': Write a true statement about the content of Slide 56 of Chapter 3
-ai=
+ai=Using the spanning tree algorithm, when a bridge receives a configuration message that indicates that there is a more appropriate bridge (e.g., closer to the root) that bridge stops sending configuration messages over that port.
 # Question 'aj': Write a false statement about the content of Slide 42 of Chapter 4
-aj=
+aj=One of the limitations of Multi-protocol label switching is that it forwards IP packets over implicit routes only (already defined by normal IP routing protocols), therefore is redundant.
 # Question 'ak': Write a false statement about the content of Slide 111 of Chapter 2
-ak=
+ak=The spread spectrum technique, direct sequence, is vulnerable to interfence as each bit of data is represented by a single bit within the transmission signal.
 # Question 'al': Write a false statement about the content of Slide 2 of Chapter 4
-al=
+al=There are currently very few techniques that help deal with transmission errors.
 # Question 'am': Write a false statement about the content of Slide 43 of Chapter 3
-am=
+am=Where a bridge connects two LAN's (i.e., lan 1 and lan 2) via two ports 1 and 2, the bridge must forward any frames received out over both lans, via both ports, even if the sender and receiver's addresses are within the same lan segment.
 # Question 'an': Write a false statement about the content of Slide 9 of Chapter 4
 an=
 # Question 'ao': Write a true statement about the content of Slide 95 of Chapter 3
