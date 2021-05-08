@@ -11,14 +11,15 @@ END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+One of the key components of the Diffie Hellman algorithm is the use of a large prime number; used for the generation of a common (to both parties) secret key.  The degree of security offered by this algorithm depends in large part on the difficulty solving the ‘discrete logarithm problem’ (very difficult).  The vulnerability came from millions of HTTPS, VPN and SSH servers using the same prime number.  This meant that man in the middle attacks could choose to downgrade the TLS connection to 512 bit (thus read the exchanged data) and then through the use of significant computing power eventually unlock the prime number and data.  However, from then (given the same prime number was always used) it would only take a short time.  This was addressed though most browsers increasing the minimum bit connection standard to either 768 bit or 1024.  This made solving such a problem infeasible.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=y
 # Question 'af': Write a false statement about the content of Slide 30 of Chapter 1
-af=
+af=A socket may be defined as the point where a network stack connects to the physical media (layer).
 # Question 'ag': Write a false statement about the content of Slide 39 of Chapter 3
-ag=
+ag=Source routing is when information is sent accross the network with a forwarding table: that table directs the data through the network.  
 # Question 'ah': Write a false statement about the content of Slide 22 of Chapter 3
 ah=
 # Question 'ai': Write a true statement about the content of Slide 56 of Chapter 3
