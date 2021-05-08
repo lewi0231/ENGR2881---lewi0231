@@ -246,13 +246,13 @@ laptop4 node6
 END:cb
 # Question 'cc': Define a network that consists of a tree network and a line network connected by a switch}
 BEGIN:cc
-switch3 node9
+switch3:1 node9
 node8 node9
 node7 node9
 node6 node7
 laptop4 node6
 laptop3 node6
-switch3 laptop3
+switch3:2 laptop3
 laptop4 laptop3
 node7 laptop4
 node8 node7
@@ -346,11 +346,12 @@ END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
 
-Star topology
+star topology
 
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
+A number of hosts are directly connected (linked) to a server, but not to each other.
 END:ck
 # Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
 BEGIN:cl
@@ -359,6 +360,7 @@ Full mesh topology
 END:cl
 # Question 'cm': Describe your peer-to-peer network topology.
 BEGIN:cm
+Every host (node) is connected to every other host.  
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
