@@ -33,6 +33,6 @@ al=There are currently very few techniques that help deal with transmission erro
 # Question 'am': Write a false statement about the content of Slide 43 of Chapter 3
 am=Where a bridge connects two LAN's (i.e., lan 1 and lan 2) via two ports 1 and 2, the bridge must forward any frames received out over both lans, via both ports, even if the sender and receiver's addresses are within the same lan segment.
 # Question 'an': Write a false statement about the content of Slide 9 of Chapter 4
-an=
+an=Route propogation identifies three routing problems routing within a single autonomous system, routing between autonomous systems and routing within virtual autonomous systems.
 # Question 'ao': Write a true statement about the content of Slide 95 of Chapter 3
-ao=
+ao=Routing may be described as the process by which a routing table is built.
