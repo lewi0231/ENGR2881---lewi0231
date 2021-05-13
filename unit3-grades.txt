@@ -1,20 +1,23 @@
 unit3 PROVISIONAL GRADE: DN
 
-NOTE: Changes made after Tue May 11 09:47:38 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu May 13 11:51:19 2021 +0930 have not yet been graded.
 
 SUMMARY: 40 true/false and yes/no questions: 26 correct, 14 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          1 normal questions, 1 correct.
          34 long-form questions, grade distribution: Ix4 Fx0 Px0 CRx6 DNx2 HDx22
 
-ANSWERS GRADED I:  cc cj ck cm
+ANSWERS GRADED UNMARKED:  cc cj ck cm
 ANSWERS GRADED F: 
 ANSWERS GRADED P: 
 ANSWERS GRADED CR: bu ca cb cd cf cg
 ANSWERS GRADED DN: bp cw
 ANSWERS GRADED HD: bq br bs bt bv bw bx by bz ce ch ci cl co cp cq cr cs ct cu cv cx
+ANSWERS GRADED INCOMPLETE:
 
-NOTE: You have one or more answers classified as 'I', which means 'Incomplete.'
-      This can either mean that you haven't supplied an answer to those questions yet,
-      or that I haven't marked those answers yet.  If you have supplied an answer, then
-      please wait patiently, as I will continue to mark all questions as quickly as I can.
+NOTE: You have one or more answers classified as 'UNMARKED', which means that they require manual marking.
+      This means that you need to wait until I have the chance to mark thos questions.
+      Please wait patiently, and I will continue to mark all questions as quickly as I can.
+      The provisional grade above will not take these answers into account, until they have been
+      marked.  Thus it is not uncommon to see a provision grade of `F', until all answers have been
+      marked.
