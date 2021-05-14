@@ -1,16 +1,25 @@
-unit1 PROVISIONAL GRADE: HD
+unit1 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Fri May 14 14:06:11 2021 +0930 have not yet been graded.
+NOTE: Changes made after Fri May 14 15:12:31 2021 +0930 have not yet been graded.
 
 SUMMARY: 10 true/false and yes/no questions: 8 correct, 2 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          62 normal questions, 61 correct.
-         7 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx1 DNx1 HDx5
+         7 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx1 DNx0 HDx4
 
 ANSWERS GRADED UNMARKED: 
 ANSWERS GRADED F:  af
 ANSWERS GRADED P: 
 ANSWERS GRADED CR: da
-ANSWERS GRADED DN: cz
-ANSWERS GRADED HD: cv cw cx cy db
+ANSWERS GRADED DN:
+ANSWERS GRADED HD: cv cw cy db
 ANSWERS GRADED INCOMPLETE:
+ANSWERS GRADED TOOLONG: cx cz
+
+NOTE: You have one or more answers classified as 'TOOLONG', which means that they are too long.
+      Short-answer questions should be written on a single line in your unitX-answers.txt files, and must not
+         exceed 512 characters in length. This limit applies to all answers that do not have BEGIN:xx and END:xx lines
+         supplied for you in the unitX-answers.txt file.
+      Long-answer questions can be written spanning multiple lines between the BEGIN:xx and END:xx lines in your
+         unitX-answers.txt files, but must not exceed 2,500 characters in total.
+      Please reduce the length of the indicated answers.
