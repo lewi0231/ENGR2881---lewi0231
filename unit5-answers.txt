@@ -40,22 +40,22 @@ ag=N
 #	0x0080:  22                                       "
 # Question 'ah': For the supplied packet: IP length
 #        Format: Integer: Answer with the decimal value of the field.
-ah=
+ah=111
 # Question 'ai': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-ai=
+ai=N
 # Question 'aj': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-aj=
+aj=17
 # Question 'ak': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-ak=
+ak=0
 # Question 'al': For the supplied packet: MPLS label
 #        Format: Integer: Answer with the decimal value of the field.
-al=
+al=19
 # Question 'am': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-am=
+am=0
 # Packet dump:
 #	0x0000:  9d84 5c35 fb9c 19a6 40d7 9e43 8848 0000  ..\5....@..C.H..
 #	0x0010:  b1ca 4500 0046 0000 4000 3c06 0000 d72e  ..E..F..@.<.....
