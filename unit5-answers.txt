@@ -12,22 +12,22 @@
 #	0x0090:  e0a3 98c4 38                             ....8
 # Question 'ab': For the supplied packet: ARP request
 #        Format: Boolean: Answer Y or N
-ab=
+ab=Y
 # Question 'ac': For the supplied packet: ARP target MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ac=
+ac=43:70:9d:51:60:31
 # Question 'ad': For the supplied packet: ARP HTYPE
 #        Format: Integer: Answer with the decimal value of the field.
-ad=
+ad=1
 # Question 'ae': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ae=
+ae=3a:91:fd:73:aa:2b
 # Question 'af': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-af=
+af=N
 # Question 'ag': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
-ag=
+ag=N
 # Packet dump:
 #	0x0000:  998b 0d5c fdf1 40be 96b7 13ce 8848 0001  ...\..@......H..
 #	0x0010:  3d43 4500 006f 0000 0000 3e11 0000 f0b0  =CE..o....>.....
