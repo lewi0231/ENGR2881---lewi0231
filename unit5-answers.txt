@@ -65,22 +65,22 @@ am=0
 #	0x0050:  48fb c539 7414 6f66                      H..9t.of
 # Question 'an': For the supplied packet: TCP PSH
 #        Format: Boolean: Answer Y or N
-an=
+an=Y
 # Question 'ao': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-ao=
+ao=203728098
 # Question 'ap': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-ap=
+ap=60
 # Question 'aq': For the supplied packet: TCP RST
 #        Format: Boolean: Answer Y or N
-aq=
+aq=Y
 # Question 'ar': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-ar=
+ar=N
 # Question 'as': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-as=
+as=60
 # Packet dump:
 #	0x0000:  376c fa06 e4fb 1dd3 1c28 bdb6 88a8 521a  7l.......(....R.
 #	0x0010:  0800 4500 0053 0000 4000 1a11 0000 40e0  ..E..S..@.....@.
@@ -91,22 +91,22 @@ as=
 #	0x0060:  a910 7834 b2                             ..x4.
 # Question 'at': For the supplied packet: UDP source port
 #        Format: Integer: Answer with the decimal value of the field.
-at=
+at=14685
 # Question 'au': For the supplied packet: IP More Fragments
 #        Format: Boolean: Answer Y or N
-au=
+au=N
 # Question 'av': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
-av=
+av=F
 # Question 'aw': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-aw=
+aw=00
 # Question 'ax': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-ax=
+ax=64.224.205.249
 # Question 'ay': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ay=
+ay=1d:d3:1c:28:bd:b6
 # Packet dump:
 #	0x0000:  be0f ace2 4358 e87b 0330 63e0 0806 0001  ....CX.{.0c.....
 #	0x0010:  0800 0604 0001 74a8 201c 6576 27f2 9b82  ......t...ev'...
