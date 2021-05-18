@@ -416,21 +416,21 @@ dm=14:9b:fd:4b:5b:97
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a true statement about the content of Slide 92 of Chapter 3
-do=
+do=Newly connected hosts send a broadcast a DHCPDISCOVER message to ultimately receive IP configuration from the DHCP server.
 # Question 'dp': Write a false statement about the content of Slide 66 of Chapter 2
-dp=
+dp=In the sliding window protocol the sender maintains three variables: Sending Window Size(SWS), Last Frame Acknowledged(LFA), Last Frame Sent(LFS).
 # Question 'dq': Write a false statement about the content of Slide 69 of Chapter 8
-dq=
+dq=By noting the average amount of DECbit's that were attached (by the router) to packets (sent), the sender can reduce the amount of packets sent when the average (amount of packets) falls below 87.5% and increase (the amount of packets sent) when the average is above 87.5%
 # Question 'dr': Write a false statement about the content of Slide 64 of Chapter 8
 dr=
 # Question 'ds': Write a false statement about the content of Slide 74 of Chapter 9
 ds=
 # Question 'dt': Write a true statement about the content of Slide 83 of Chapter 2
-dt=
+dt=Ethernet allows for a maximum of four repeaters to be positioned between any pair of hosts.
 # Question 'du': Write a false statement about the content of Slide 5 of Chapter 8
 du=
 # Question 'dv': Write a true statement about the content of Slide 6 of Chapter 2
-dv=
+dv=The end-user's view of the internet is often limited to them accessing the Internet via their ISP (via a router, they have been provided).  
 # Question 'dw': Write a false statement about the content of Slide 55 of Chapter 9
 dw=
 # Question 'dx': Write a false statement about the content of Slide 44 of Chapter 6
