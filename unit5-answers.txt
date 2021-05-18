@@ -420,18 +420,18 @@ do=Newly connected hosts send a broadcast a DHCPDISCOVER message to ultimately r
 # Question 'dp': Write a false statement about the content of Slide 66 of Chapter 2
 dp=In the sliding window protocol the sender maintains three variables: Sending Window Size(SWS), Last Frame Acknowledged(LFA), Last Frame Sent(LFS).
 # Question 'dq': Write a false statement about the content of Slide 69 of Chapter 8
-dq=By noting the average amount of DECbit's that were attached (by the router) to packets (sent), the sender can reduce the amount of packets sent when the average (amount of packets) falls below 87.5% and increase (the amount of packets sent) when the average is above 87.5%
+dq=Firewalls may only be used to create a single zone of trust, multiple zones of trust are not possible.
 # Question 'dr': Write a false statement about the content of Slide 64 of Chapter 8
-dr=
+dr=IPSec's ESP format includes a Security Parameters Index (SPI), which is essentially a randomly generated number agreed upon between hosts.
 # Question 'ds': Write a false statement about the content of Slide 74 of Chapter 9
 ds=
 # Question 'dt': Write a true statement about the content of Slide 83 of Chapter 2
 dt=Ethernet allows for a maximum of four repeaters to be positioned between any pair of hosts.
 # Question 'du': Write a false statement about the content of Slide 5 of Chapter 8
-du=
+du=There are techniques to detect, but not prevent a hacker from altering 2 or more bits of an encrypted message.
 # Question 'dv': Write a true statement about the content of Slide 6 of Chapter 2
 dv=The end-user's view of the internet is often limited to them accessing the Internet via their ISP (via a router, they have been provided).  
 # Question 'dw': Write a false statement about the content of Slide 55 of Chapter 9
 dw=
 # Question 'dx': Write a false statement about the content of Slide 44 of Chapter 6
-dx=
+dx=The additive part of Additive Increase Multiplicative Decrease (AIMD) means that whenever 2 x CongestionWindow's worth of packets have been successfully received, the equivalent of 1 packet is added to the CongestionWindow.
