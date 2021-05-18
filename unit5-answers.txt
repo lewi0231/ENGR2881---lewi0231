@@ -281,22 +281,22 @@ ci=22:d4:b0:f9:4b:2d
 #	0x0090:  e6c8 c899 b7                             .....
 # Question 'cj': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
-cj=
+cj=1370397719
 # Question 'ck': For the supplied packet: TCP PSH
 #        Format: Boolean: Answer Y or N
-ck=
+ck=N
 # Question 'cl': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-cl=
+cl=N
 # Question 'cm': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-cm=
+cm=0
 # Question 'cn': For the supplied packet: TCP SYN
 #        Format: Boolean: Answer Y or N
-cn=
+cn=Y
 # Question 'co': For the supplied packet: TCP CWR
 #        Format: Boolean: Answer Y or N
-co=
+co=N
 # Packet dump:
 #	0x0000:  fc08 1c71 8f12 2813 3fbd fa11 0806 0001  ...q..(.?.......
 #	0x0010:  0800 0604 0001 916f 1eb1 73af de9e e49d  .......o..s.....
@@ -308,22 +308,22 @@ co=
 #	0x0070:  4f3e e3f7 cd64 c574                      O>...d.t
 # Question 'cp': For the supplied packet: ARP target MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cp=
+cp=26:dd:a2:7a:7f:b6 
 # Question 'cq': For the supplied packet: ARP source MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cq=
+cq=91:6f:1e:b1:73:af 
 # Question 'cr': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cr=
+cr=fc:08:1c:71:8f:12 
 # Question 'cs': For the supplied packet: ETH frame type
 #        Format: Four-digit Hex: Answer with the four digit hexadecimal value of the field, e.g., 02AF. Do not put a leading 0x or \$ on the front of the hexadecimal number.
-cs=
+cs=0806
 # Question 'ct': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-ct=
+ct=N
 # Question 'cu': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cu=
+cu=28:13:3f:bd:fa:11 
 # Packet dump:
 #	0x0000:  f80a c8fa f4ab 203f b9ad 766b 8848 0000  .......?..vk.H..
 #	0x0010:  f7fc 4500 0085 0000 4000 0506 0000 c456  ..E.....@......V
@@ -337,22 +337,22 @@ cu=
 #	0x0090:  60bc 5ac7 4e37 ce                        `.Z.N7.
 # Question 'cv': For the supplied packet: TCP ACK
 #        Format: Boolean: Answer Y or N
-cv=
+cv=Y
 # Question 'cw': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-cw=
+cw=0
 # Question 'cx': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-cx=
+cx=N
 # Question 'cy': For the supplied packet: TCP RST
 #        Format: Boolean: Answer Y or N
-cy=
+cy=N
 # Question 'cz': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cz=
+cz=20:3f:b9:ad:76:6b 
 # Question 'da': For the supplied packet: TCP FIN
 #        Format: Boolean: Answer Y or N
-da=
+da=N
 # Packet dump:
 #	0x0000:  653a 1874 2d67 93df e239 b3b0 8100 1b22  e:.t-g...9....."
 #	0x0010:  0800 4500 0095 0000 4000 1306 0000 c9dd  ..E.....@.......
@@ -367,22 +367,22 @@ da=
 #	0x00a0:  14c4 6c44 c476 b3                        ..lD.v.
 # Question 'db': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
-db=
+db=19
 # Question 'dc': For the supplied packet: IP Protocol of payload
 #        Format: Integer: Answer with the decimal value of the field.
-dc=
+dc=6
 # Question 'dd': For the supplied packet: Frame is MPLS
 #        Format: Boolean: Answer Y or N
-dd=
+dd=N
 # Question 'de': For the supplied packet: ETH frame type
 #        Format: Four-digit Hex: Answer with the four digit hexadecimal value of the field, e.g., 02AF. Do not put a leading 0x or \$ on the front of the hexadecimal number.
-de=
+de=8100
 # Question 'df': For the supplied packet: TCP PSH
 #        Format: Boolean: Answer Y or N
-df=
+df=N
 # Question 'dg': For the supplied packet: TCP destination port
 #        Format: Integer: Answer with the decimal value of the field.
-dg=
+dg=58741
 # Packet dump:
 #	0x0000:  47d5 416a dfc0 884b 3f80 90c8 0806 0001  G.Aj...K?.......
 #	0x0010:  0800 0604 0001 149b fd4b 5b97 9465 d645  .........K[..e.E
@@ -397,22 +397,22 @@ dg=
 #	0x00a0:  1c2d e392 631f 92b0                      .-..c...
 # Question 'dh': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-dh=
+dh=47:d5:41:6a:df:c0 
 # Question 'di': For the supplied packet: ARP request
 #        Format: Boolean: Answer Y or N
-di=
+di=Y
 # Question 'dj': For the supplied packet: ARP HTYPE
 #        Format: Integer: Answer with the decimal value of the field.
-dj=
+dj=1
 # Question 'dk': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-dk=
+dk=N
 # Question 'dl': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
-dl=
+dl=N
 # Question 'dm': For the supplied packet: ARP source MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-dm=
+dm=14:9b:fd:4b:5b:97 
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a true statement about the content of Slide 92 of Chapter 3
