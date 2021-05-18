@@ -116,22 +116,22 @@ ay=1d:d3:1c:28:bd:b6
 #	0x0050:  c945 d7                                  .E.
 # Question 'az': For the supplied packet: ARP source IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-az=
+az=39.242.155.130
 # Question 'ba': For the supplied packet: ARP source MAC
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-ba=
+ba=74:a8:20:1c:65:76
 # Question 'bb': For the supplied packet: ARP reply
 #        Format: Boolean: Answer Y or N
-bb=
+bb=N
 # Question 'bc': For the supplied packet: ARP HTYPE
 #        Format: Integer: Answer with the decimal value of the field.
-bc=
+bc=1
 # Question 'bd': For the supplied packet: ARP request
 #        Format: Boolean: Answer Y or N
-bd=
+bd=Y
 # Question 'be': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-be=
+be=N
 # Packet dump:
 #	0x0000:  9844 4cd8 c80f 7d8f 8f9d b72f 8848 0000  .DL...}..../.H..
 #	0x0010:  e7f7 4500 0052 0000 4000 0b11 0000 a0a8  ..E..R..@.......
@@ -142,22 +142,22 @@ be=
 #	0x0060:  4589 59e4                                E.Y.
 # Question 'bf': For the supplied packet: IP destination address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-bf=
+bf=223.103.14.140
 # Question 'bg': For the supplied packet: IP ToS
 #        Format: Integer: Answer with the decimal value of the field.
-bg=
+bg=0
 # Question 'bh': For the supplied packet: Frame is 802.1q
 #        Format: Boolean: Answer Y or N
-bh=
+bh=N
 # Question 'bi': For the supplied packet: UDP source port
 #        Format: Integer: Answer with the decimal value of the field.
-bi=
+bi=2290
 # Question 'bj': For the supplied packet: ETH source address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-bj=
+bj=7d:8f:8f:9d:b7:2f
 # Question 'bk': For the supplied packet: IP DSCP
 #        Format: Integer: Answer with the decimal value of the field.
-bk=
+bk=0
 # Packet dump:
 #	0x0000:  5b90 54d5 fad3 a51b 6346 08df 88a8 42f9  [.T.....cF....B.
 #	0x0010:  0800 4500 008c 0000 4000 1d11 0000 c800  ..E.....@.......
