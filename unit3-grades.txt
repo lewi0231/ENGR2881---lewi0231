@@ -1,20 +1,23 @@
-unit3 PROVISIONAL GRADE: DN
+unit3 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Thu May 20 12:15:02 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu May 20 12:47:47 2021 +0930 have not yet been graded.
 
 SUMMARY: 40 true/false and yes/no questions: 26 correct, 14 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          1 normal questions, 1 correct.
-         34 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx6 DNx2 HDx22
+         34 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx0 DNx1 HDx7
 
-ANSWERS GRADED UNMARKED:  cc cj ck cm
+ANSWERS GRADED UNMARKED:  cu cx
 ANSWERS GRADED F: 
 ANSWERS GRADED P: 
-ANSWERS GRADED CR: bu ca cb cd cf cg
-ANSWERS GRADED DN: bp cw
-ANSWERS GRADED HD: bq br bs bt bv bw bx by bz ce ch ci cl co cp cq cr cs ct cu cv cx
-ANSWERS GRADED INCOMPLETE:
+ANSWERS GRADED CR:
+ANSWERS GRADED DN: cw
+ANSWERS GRADED HD: co cp cq cr cs ct cv
+ANSWERS GRADED INCOMPLETE: bp bq br bs bt bu bv bw bx by bz ca cb cc cd ce cf cg ch ci cj ck cl cm
 ANSWERS GRADED TOOLONG:
+
+NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
+      This means that you have one or more questions that you have not yet answered.
 
 NOTE: You have one or more answers classified as 'UNMARKED', which means that they require manual marking.
       This means that you need to wait until I have the chance to mark thos questions.
