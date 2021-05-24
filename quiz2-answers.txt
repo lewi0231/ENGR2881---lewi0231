@@ -1,0 +1,151 @@
+## Quiz #2: Chapters 4 to 6
+# Question 'ab': True or false: Congestion control exists to prevent senders from overrunning the capacity of receivers
+ab=
+# Question 'ac': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
+ac=
+# Question 'ad': True or false: A multicast host needs to know the membership of a group in order to send a packet to the group
+ad=
+# Question 'ae': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
+ae=
+# Question 'af': True or false: Queuing disciplines in network elements have no impact on congestion: The problem is that there are too many packets to be sent
+af=
+# Question 'ag': True or false: The TCP checksum field is calculated over data from only the TCP header
+ag=
+# Question 'ah': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 26Mbit/sec full
+ah=
+# Question 'ai': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, while still allowing for brief bursts of higher data rates
+ai=
+# Question 'aj': True or false: Multi-provider Internet topologies typically involve peering points
+aj=
+# Question 'ak': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
+ak=
+# Question 'al': True or false: The packets exchanged by TCP peers are called frames
+al=
+# Question 'am': True or false: The TSpec of a flow is easier to define correctly than the RSpec
+am=
+# Question 'an': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
+an=
+# Question 'ao': True or false: Transport protocols typically support synchronising sender and receiver
+ao=
+# Question 'ap': True or false: The power of a network is often expresses as the delay divided by the throughput
+ap=
+# Question 'aq': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will subtract one packet from the congestion window size, until it receives the next acknowledgement
+aq=
+# Question 'ar': True or false: Network flows are streams of related packets that flow through a given router 
+ar=
+# Question 'as': True or false: The acknowledgement field of the TCP header only requires inspection if the ACK flag is set
+as=
+# Question 'at': True or false: IPv6, like IPv4, allows the use of IPSec, but does not make it compulsory
+at=
+# Question 'au': True or false: Key network resources to be allocated include the bandwidth of links and processing power of the connected computers
+au=
+# Question 'av': True or false: It is up to an application using a TCP implementation to decide when it has enough bytes to send a segment
+av=
+# Question 'aw': True or false: The UDP header contains source port, destination port, checksum and length fields
+aw=
+# Question 'ax': True or false: Congestion Collapse was implemented in TCP to improve network performance
+ax=
+# Question 'ay': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
+ay=
+# Question 'az': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
+az=
+# Question 'ba': True or false: RSVP can be used for both unicast and multicast flows
+ba=
+# Question 'bb': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
+bb=
+# Question 'bc': True or false: FIFO and FCFS are two different approaches to packet queuing
+bc=
+# Question 'bd': True or false: It is common for large corporations to connect directly to one or more backbones
+bd=
+# Question 'be': True or false: Multicast causes traffic to be concentrated near the sender
+be=
+# Question 'bf': True or false: Route Propagation refers to sharing of routing information throughout a network or inter-network
+bf=
+# Question 'bg': True or false: An example of one-to-many multicast would be radio station broadcast
+bg=
+# Question 'bh': True or false: Source Specific Multicast offers improved one-to-many multicast support for IP
+bh=
+# Question 'bi': True or false: Nagle's Algorithm is used in TCP to minimise data delivery latency with avoiding Silly Window Syndrome
+bi=
+# Question 'bj': True or false: IPv6 addresses are allocated on a provider and geographic basis
+bj=
+# Question 'bk': True or false: Multicast Listener Discover is used to signal the intent to join or leave a multicast group on IPv4
+bk=
+# Question 'bl': True or false: In a reservation-based system, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
+bl=
+# Question 'bm': True or false: Allocating network resources with sufficient precision to avoid congestion is the most common approach to congestion avoidance
+bm=
+# Question 'bn': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
+bn=
+# Question 'bo': True or false: BGP relies on providers being able to trust the advertisements provided by other providers
+bo=
+# Question 'bp': True or false: TCP Fast Recovery uses the Fast Start mechanism instead of the Slow Start mechanism whenever the Fast Retransmit mechanism detects congestion
+bp=
+# Question 'bq': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the power of the network
+bq=
+# Question 'br': True or false: Remote Procedure Call is an example of an end-to-end protocol
+br=
+# Question 'bs': True or false: TCP Fast Retransmit works by reducing the TCP retransmission timeout
+bs=
+# Question 'bt': True or false: TCP must be able to handle widely varying Round-Trip Times on networks
+bt=
+# Question 'bu': True or false: Latency as well as bandwidth are important for providing the necessary Quality-of-Service for various network applications
+bu=
+# Question 'bv': True or false: Packet loss is a problem that equally impacts on all real-time applications
+bv=
+# Question 'bw': True or false: Network resource allocation is either one of router-centric or host-centric
+bw=
+# Question 'bx': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
+bx=
+# Question 'by': True or false: Routing Areas refer to the different algorithm areas in routing protocol design
+by=
+# Question 'bz': True or false: The UDP protocol demultiplexes packets arriving at an application into separate queues based on which host they came from
+bz=
+# Question 'ca': True or false: Network Address Translation is used to avoid exhaustion of Autonomous System numbers
+ca=
+# Question 'cb': True or false: A Multihomed Autonomous System has multiple connections to other Autonomous Systems, allowing it to carry both local and transit traffic
+cb=
+# Question 'cc': True or false: The TCP source port field is at byte offset 0 in the TCP header
+cc=
+# Question 'cd': True or false: A network flow is similar to a channel, but is visible to a given router, rather than being an end-to-end abstraction
+cd=
+# Question 'ce': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
+ce=
+# Question 'cf': True or false: Inter-domain routing exists to find optimal routes among the many supplied paths between destinations
+cf=
+# Question 'cg': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
+cg=
+# Question 'ch': True or false: Real-time network applications require accurate network time synchronisation, so that latency can be minimised
+ch=
+# Question 'ci': True or false: TCP is byte-oriented
+ci=
+# Question 'cj': True or false: The Jacobson/Karels algorithm uses a retransmission delay close to the estimated RTT when RTT variance is small, but which grows quickly as the variation in RTT grows
+cj=
+# Question 'ck': True or false: Jain's Fairness Index is a commonly used approach to assess the fairness of a congestion control algorithm
+ck=
+# Question 'cl': True or false: As a byte-oriented protocol, TCP sends one byte at a time
+cl=
+# Question 'cm': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
+cm=
+# Question 'cn': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
+cn=
+# Question 'co': True or false: Flowspec is a mechanism in RSVP for providing routers with additional information to enable them to better meet quality-of-service promises
+co=
+# Question 'cp': True or false: Multicast in IP is structured as a one-to-many system, and extensions must be used to implement many-to-many multicast
+cp=
+# Question 'cq': True or false: TCP can be used to transfer data using the full capacity of network links of any speed, as the sliding window algorithm will correct any out-of-order delivery
+cq=
+# Question 'cr': True or false: UDP is a simple multiplexer that allows the packets from multiple hosts to be carried over the same link
+cr=
+# Question 'cs': True or false: Each Autonomous System should contain only a single router
+cs=
+# Question 'ct': True or false: Transport protocols often have to contend with networks delivering messages after arbitrarily long delays
+ct=
+# Question 'cu': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
+cu=
+# Question 'cv': True or false: The DEC Bit is a mechanism for Congestion Avoidance that works by setting a congestion indication bit in packets when network queues grow, thus allowing senders to actively avoid congestion
+cv=
+# Question 'cw': True or false: Randomised Early Detection (RED) does not drop packets if the average queue length is below some threshold
+cw=
+# Question 'cx': True or false: Mobile IP requires the use of tunnels or care-of addresses to deliver packets to mobile nodes
+cx=
