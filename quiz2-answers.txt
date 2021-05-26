@@ -1,20 +1,20 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Congestion control exists to prevent senders from overrunning the capacity of receivers
-ab=
+ab=T
 # Question 'ac': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
-ac=
+ac=T
 # Question 'ad': True or false: A multicast host needs to know the membership of a group in order to send a packet to the group
-ad=
+ad=F
 # Question 'ae': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
-ae=
+ae=F
 # Question 'af': True or false: Queuing disciplines in network elements have no impact on congestion: The problem is that there are too many packets to be sent
-af=
+af=F
 # Question 'ag': True or false: The TCP checksum field is calculated over data from only the TCP header
-ag=
+ag=F
 # Question 'ah': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 26Mbit/sec full
 ah=
 # Question 'ai': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, while still allowing for brief bursts of higher data rates
-ai=
+ai=T
 # Question 'aj': True or false: Multi-provider Internet topologies typically involve peering points
 aj=
 # Question 'ak': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
