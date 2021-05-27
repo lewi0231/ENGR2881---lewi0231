@@ -1,6 +1,6 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Congestion control exists to prevent senders from overrunning the capacity of receivers
-ab=T
+ab=F
 # Question 'ac': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
 ac=T
 # Question 'ad': True or false: A multicast host needs to know the membership of a group in order to send a packet to the group
@@ -24,29 +24,29 @@ al=F
 # Question 'am': True or false: The TSpec of a flow is easier to define correctly than the RSpec
 am=
 # Question 'an': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
-an=
+an=F
 # Question 'ao': True or false: Transport protocols typically support synchronising sender and receiver
-ao=
+ao=T
 # Question 'ap': True or false: The power of a network is often expresses as the delay divided by the throughput
-ap=
+ap=F
 # Question 'aq': True or false: Whenever the loss of a packet is detected, the TCP congestion control protocol will subtract one packet from the congestion window size, until it receives the next acknowledgement
-aq=
+aq=F
 # Question 'ar': True or false: Network flows are streams of related packets that flow through a given router 
-ar=
+ar=T
 # Question 'as': True or false: The acknowledgement field of the TCP header only requires inspection if the ACK flag is set
-as=
+as=T
 # Question 'at': True or false: IPv6, like IPv4, allows the use of IPSec, but does not make it compulsory
-at=
+at=F
 # Question 'au': True or false: Key network resources to be allocated include the bandwidth of links and processing power of the connected computers
-au=
+au=T
 # Question 'av': True or false: It is up to an application using a TCP implementation to decide when it has enough bytes to send a segment
-av=
+av=F
 # Question 'aw': True or false: The UDP header contains source port, destination port, checksum and length fields
-aw=
+aw=T
 # Question 'ax': True or false: Congestion Collapse was implemented in TCP to improve network performance
-ax=
+ax=F
 # Question 'ay': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
-ay=
+ay=F
 # Question 'az': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
 az=
 # Question 'ba': True or false: RSVP can be used for both unicast and multicast flows
@@ -54,11 +54,11 @@ ba=
 # Question 'bb': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
 bb=
 # Question 'bc': True or false: FIFO and FCFS are two different approaches to packet queuing
-bc=
+bc=F
 # Question 'bd': True or false: It is common for large corporations to connect directly to one or more backbones
-bd=
+bd=T
 # Question 'be': True or false: Multicast causes traffic to be concentrated near the sender
-be=
+be=T
 # Question 'bf': True or false: Route Propagation refers to sharing of routing information throughout a network or inter-network
 bf=
 # Question 'bg': True or false: An example of one-to-many multicast would be radio station broadcast
@@ -66,9 +66,9 @@ bg=
 # Question 'bh': True or false: Source Specific Multicast offers improved one-to-many multicast support for IP
 bh=
 # Question 'bi': True or false: Nagle's Algorithm is used in TCP to minimise data delivery latency with avoiding Silly Window Syndrome
-bi=
+bi=F
 # Question 'bj': True or false: IPv6 addresses are allocated on a provider and geographic basis
-bj=
+bj=T
 # Question 'bk': True or false: Multicast Listener Discover is used to signal the intent to join or leave a multicast group on IPv4
 bk=
 # Question 'bl': True or false: In a reservation-based system, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
