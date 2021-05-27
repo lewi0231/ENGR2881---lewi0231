@@ -18,9 +18,9 @@ ai=T
 # Question 'aj': True or false: Multi-provider Internet topologies typically involve peering points
 aj=
 # Question 'ak': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
-ak=
+ak=T
 # Question 'al': True or false: The packets exchanged by TCP peers are called frames
-al=
+al=F
 # Question 'am': True or false: The TSpec of a flow is easier to define correctly than the RSpec
 am=
 # Question 'an': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
