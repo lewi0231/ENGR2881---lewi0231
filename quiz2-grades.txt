@@ -1,0 +1,10 @@
+quiz2 PROVISIONAL GRADE: F
+
+NOTE: Changes made after Thu May 27 16:45:54 2021 +0930 have not yet been graded.
+
+SUMMARY: 75 true/false and yes/no questions: 23 correct, 3 incorrect.
+         (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
+
+
+NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
+      This means that you have one or more questions that you have not yet answered.
