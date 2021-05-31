@@ -82,13 +82,13 @@ bo=
 # Question 'bp': True or false: TCP Fast Recovery uses the Fast Start mechanism instead of the Slow Start mechanism whenever the Fast Retransmit mechanism detects congestion
 bp=
 # Question 'bq': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the power of the network
-bq=
+bq=F
 # Question 'br': True or false: Remote Procedure Call is an example of an end-to-end protocol
-br=
+br=T
 # Question 'bs': True or false: TCP Fast Retransmit works by reducing the TCP retransmission timeout
-bs=
+bs=F
 # Question 'bt': True or false: TCP must be able to handle widely varying Round-Trip Times on networks
-bt=
+bt=T
 # Question 'bu': True or false: Latency as well as bandwidth are important for providing the necessary Quality-of-Service for various network applications
 bu=
 # Question 'bv': True or false: Packet loss is a problem that equally impacts on all real-time applications
