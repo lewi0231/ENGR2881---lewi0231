@@ -136,16 +136,16 @@ cp=
 # Question 'cq': True or false: TCP can be used to transfer data using the full capacity of network links of any speed, as the sliding window algorithm will correct any out-of-order delivery
 cq=
 # Question 'cr': True or false: UDP is a simple multiplexer that allows the packets from multiple hosts to be carried over the same link
-cr=
+cr=T
 # Question 'cs': True or false: Each Autonomous System should contain only a single router
-cs=
+cs=F
 # Question 'ct': True or false: Transport protocols often have to contend with networks delivering messages after arbitrarily long delays
-ct=
+ct=T
 # Question 'cu': True or false: Care-of addresses are one of the major causes of inefficient routing in IP mobility
-cu=
+cu=F
 # Question 'cv': True or false: The DEC Bit is a mechanism for Congestion Avoidance that works by setting a congestion indication bit in packets when network queues grow, thus allowing senders to actively avoid congestion
-cv=
+cv=T
 # Question 'cw': True or false: Randomised Early Detection (RED) does not drop packets if the average queue length is below some threshold
-cw=
+cw=T
 # Question 'cx': True or false: Mobile IP requires the use of tunnels or care-of addresses to deliver packets to mobile nodes
-cx=
+cx=T
