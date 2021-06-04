@@ -114,17 +114,17 @@ ce=
 # Question 'cf': True or false: Inter-domain routing exists to find optimal routes among the many supplied paths between destinations
 cf=
 # Question 'cg': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
-cg=
+cg=F
 # Question 'ch': True or false: Real-time network applications require accurate network time synchronisation, so that latency can be minimised
 ch=
 # Question 'ci': True or false: TCP is byte-oriented
-ci=
+ci=T
 # Question 'cj': True or false: The Jacobson/Karels algorithm uses a retransmission delay close to the estimated RTT when RTT variance is small, but which grows quickly as the variation in RTT grows
 cj=
 # Question 'ck': True or false: Jain's Fairness Index is a commonly used approach to assess the fairness of a congestion control algorithm
-ck=
+ck=T
 # Question 'cl': True or false: As a byte-oriented protocol, TCP sends one byte at a time
-cl=
+cl=F
 # Question 'cm': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
 cm=
 # Question 'cn': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
