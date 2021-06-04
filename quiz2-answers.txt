@@ -128,13 +128,13 @@ cl=
 # Question 'cm': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
 cm=
 # Question 'cn': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
-cn=
+cn=F
 # Question 'co': True or false: Flowspec is a mechanism in RSVP for providing routers with additional information to enable them to better meet quality-of-service promises
-co=
+co=T
 # Question 'cp': True or false: Multicast in IP is structured as a one-to-many system, and extensions must be used to implement many-to-many multicast
-cp=
+cp=F
 # Question 'cq': True or false: TCP can be used to transfer data using the full capacity of network links of any speed, as the sliding window algorithm will correct any out-of-order delivery
-cq=
+cq=F
 # Question 'cr': True or false: UDP is a simple multiplexer that allows the packets from multiple hosts to be carried over the same link
 cr=T
 # Question 'cs': True or false: Each Autonomous System should contain only a single router
