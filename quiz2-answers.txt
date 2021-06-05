@@ -92,11 +92,11 @@ bt=T
 # Question 'bu': True or false: Latency as well as bandwidth are important for providing the necessary Quality-of-Service for various network applications
 bu=
 # Question 'bv': True or false: Packet loss is a problem that equally impacts on all real-time applications
-bv=
+bv=F
 # Question 'bw': True or false: Network resource allocation is either one of router-centric or host-centric
-bw=
+bw=T
 # Question 'bx': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
-bx=
+bx=F
 # Question 'by': True or false: Routing Areas refer to the different algorithm areas in routing protocol design
 by=
 # Question 'bz': True or false: The UDP protocol demultiplexes packets arriving at an application into separate queues based on which host they came from
