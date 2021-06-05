@@ -50,9 +50,9 @@ ay=F
 # Question 'az': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
 az=
 # Question 'ba': True or false: RSVP can be used for both unicast and multicast flows
-ba=
+ba=T
 # Question 'bb': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
-bb=
+bb=F
 # Question 'bc': True or false: FIFO and FCFS are two different approaches to packet queuing
 bc=F
 # Question 'bd': True or false: It is common for large corporations to connect directly to one or more backbones
@@ -60,11 +60,11 @@ bd=T
 # Question 'be': True or false: Multicast causes traffic to be concentrated near the sender
 be=T
 # Question 'bf': True or false: Route Propagation refers to sharing of routing information throughout a network or inter-network
-bf=
+bf=T
 # Question 'bg': True or false: An example of one-to-many multicast would be radio station broadcast
-bg=
+bg=T
 # Question 'bh': True or false: Source Specific Multicast offers improved one-to-many multicast support for IP
-bh=
+bh=T
 # Question 'bi': True or false: Nagle's Algorithm is used in TCP to minimise data delivery latency with avoiding Silly Window Syndrome
 bi=F
 # Question 'bj': True or false: IPv6 addresses are allocated on a provider and geographic basis
