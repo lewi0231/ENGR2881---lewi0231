@@ -70,17 +70,17 @@ bi=F
 # Question 'bj': True or false: IPv6 addresses are allocated on a provider and geographic basis
 bj=T
 # Question 'bk': True or false: Multicast Listener Discover is used to signal the intent to join or leave a multicast group on IPv4
-bk=
+bk=F
 # Question 'bl': True or false: In a reservation-based system, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
-bl=
+bl=T
 # Question 'bm': True or false: Allocating network resources with sufficient precision to avoid congestion is the most common approach to congestion avoidance
 bm=
 # Question 'bn': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
 bn=
 # Question 'bo': True or false: BGP relies on providers being able to trust the advertisements provided by other providers
-bo=
+bo=F
 # Question 'bp': True or false: TCP Fast Recovery uses the Fast Start mechanism instead of the Slow Start mechanism whenever the Fast Retransmit mechanism detects congestion
-bp=
+bp=T
 # Question 'bq': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the power of the network
 bq=F
 # Question 'br': True or false: Remote Procedure Call is an example of an end-to-end protocol
