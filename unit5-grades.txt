@@ -1,17 +1,17 @@
 unit5 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Mon Jun 7 06:54:13 2021 +0930 have not yet been graded.
+NOTE: Changes made after Mon Jun 7 07:26:55 2021 +0930 have not yet been graded.
 
 SUMMARY: 32 true/false and yes/no questions: 30 correct, 2 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          59 normal questions, 56 correct.
-         10 long-form questions, grade distribution: Ix0 Fx0 Px1 CRx0 DNx0 HDx5
+         10 long-form questions, grade distribution: Ix0 Fx0 Px1 CRx0 DNx1 HDx5
 
-ANSWERS GRADED UNMARKED:  do dr
+ANSWERS GRADED UNMARKED:  do
 ANSWERS GRADED F:  ar aw
 ANSWERS GRADED P:  dp
 ANSWERS GRADED CR:
-ANSWERS GRADED DN:
+ANSWERS GRADED DN: dr
 ANSWERS GRADED HD: dq dt du dv dx
 ANSWERS GRADED INCOMPLETE: dn ds dw
 ANSWERS GRADED TOOLONG:
