@@ -77,7 +77,7 @@ ap=60
 aq=Y
 # Question 'ar': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-ar=N
+ar=0
 # Question 'as': For the supplied packet: IP TTL
 #        Format: Integer: Answer with the decimal value of the field.
 as=60
@@ -100,7 +100,7 @@ au=N
 av=F
 # Question 'aw': For the supplied packet: IP ECN
 #        Format: Integer: Answer with the decimal value of the field.
-aw=00
+aw=0
 # Question 'ax': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
 ax=64.224.205.249
@@ -418,7 +418,7 @@ dn=
 # Question 'do': Write a true statement about the content of Slide 92 of Chapter 3
 do=Newly connected hosts send a broadcast a DHCPDISCOVER message to ultimately receive IP configuration from the DHCP server.
 # Question 'dp': Write a false statement about the content of Slide 66 of Chapter 2
-dp=In the sliding window protocol the sender maintains three variables: Sending Window Size(SWS), Last Frame Acknowledged(LFA), Last Frame Sent(LFS).
+dp=With respect to the sliding window protocol, the sender maintains the following invariant: LAF - LFR <= RWS.
 # Question 'dq': Write a false statement about the content of Slide 69 of Chapter 8
 dq=Firewalls may only be used to create a single zone of trust, multiple zones of trust are not possible.
 # Question 'dr': Write a false statement about the content of Slide 64 of Chapter 8
