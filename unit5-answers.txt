@@ -414,7 +414,7 @@ dl=N
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
 dm=14:9b:fd:4b:5b:97 
 ## Write statements that are true or false for various lecture slides.
-dn=
+dn=Y
 # Question 'do': Write a true statement about the content of Slide 92 of Chapter 3
 do=Newly connected hosts send a broadcast a DHCPDISCOVER message to ultimately receive IP configuration from the DHCP server.
 # Question 'dp': Write a false statement about the content of Slide 66 of Chapter 2
@@ -424,7 +424,7 @@ dq=Firewalls may only be used to create a single zone of trust, multiple zones o
 # Question 'dr': Write a false statement about the content of Slide 64 of Chapter 8
 dr=IPSec's ESP format includes a Security Parameters Index (SPI), which is essentially a randomly generated number agreed upon between hosts.
 # Question 'ds': Write a false statement about the content of Slide 74 of Chapter 9
-ds=
+ds=If you wanted to use a routing algorithm that routing vendors were not willing to include in their products you could run your algorithm on a collection of virtual circuits. 
 # Question 'dt': Write a true statement about the content of Slide 83 of Chapter 2
 dt=Ethernet allows for a maximum of four repeaters to be positioned between any pair of hosts.
 # Question 'du': Write a false statement about the content of Slide 5 of Chapter 8
@@ -433,5 +433,6 @@ du=There are techniques to detect, but not prevent a hacker from altering 2 or m
 dv=The end-user's view of the internet is often limited to them accessing the Internet via their ISP (via a router, they have been provided).  
 # Question 'dw': Write a false statement about the content of Slide 55 of Chapter 9
 dw=
+
 # Question 'dx': Write a false statement about the content of Slide 44 of Chapter 6
 dx=The additive part of Additive Increase Multiplicative Decrease (AIMD) means that whenever 2 x CongestionWindow's worth of packets have been successfully received, the equivalent of 1 packet is added to the CongestionWindow.
