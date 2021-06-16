@@ -432,7 +432,6 @@ du=There are techniques to detect, but not prevent a hacker from altering 2 or m
 # Question 'dv': Write a true statement about the content of Slide 6 of Chapter 2
 dv=The end-user's view of the internet is often limited to them accessing the Internet via their ISP (via a router, they have been provided).  
 # Question 'dw': Write a false statement about the content of Slide 55 of Chapter 9
-dw=
-
+dw=The admission control protocol checks to see whether sufficient resources are available prior to establishing a connection.
 # Question 'dx': Write a false statement about the content of Slide 44 of Chapter 6
 dx=The additive part of Additive Increase Multiplicative Decrease (AIMD) means that whenever 2 x CongestionWindow's worth of packets have been successfully received, the equivalent of 1 packet is added to the CongestionWindow.
