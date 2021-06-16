@@ -12,17 +12,17 @@ af=F
 # Question 'ag': True or false: The TCP checksum field is calculated over data from only the TCP header
 ag=F
 # Question 'ah': True or false: Assuming a 10ms RTT, the 16-bit advertised window field of the TCP header is sufficient to keep a network link of upto about 26Mbit/sec full
-ah=
+ah=F
 # Question 'ai': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, while still allowing for brief bursts of higher data rates
 ai=T
 # Question 'aj': True or false: Multi-provider Internet topologies typically involve peering points
-aj=
+aj=T
 # Question 'ak': True or false: Neither TCP nor UDP is ideally suited to the needs of Remote Procedure Call (RPC)
 ak=T
 # Question 'al': True or false: The packets exchanged by TCP peers are called frames
 al=F
 # Question 'am': True or false: The TSpec of a flow is easier to define correctly than the RSpec
-am=
+am=F
 # Question 'an': True or false: Unlike Randomised Early Detection (RED), DECBit is able to be used with TCP
 an=F
 # Question 'ao': True or false: Transport protocols typically support synchronising sender and receiver
@@ -74,9 +74,9 @@ bk=F
 # Question 'bl': True or false: In a reservation-based system, each router allocates enough resources for a request. If the request cannot be met, the router rejects the reservation.
 bl=T
 # Question 'bm': True or false: Allocating network resources with sufficient precision to avoid congestion is the most common approach to congestion avoidance
-bm=
+bm=F
 # Question 'bn': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one congestion window's worth of bytes to the congestion window size
-bn=
+bn=F
 # Question 'bo': True or false: BGP relies on providers being able to trust the advertisements provided by other providers
 bo=F
 # Question 'bp': True or false: TCP Fast Recovery uses the Fast Start mechanism instead of the Slow Start mechanism whenever the Fast Retransmit mechanism detects congestion
@@ -90,7 +90,7 @@ bs=F
 # Question 'bt': True or false: TCP must be able to handle widely varying Round-Trip Times on networks
 bt=T
 # Question 'bu': True or false: Latency as well as bandwidth are important for providing the necessary Quality-of-Service for various network applications
-bu=
+bu=T
 # Question 'bv': True or false: Packet loss is a problem that equally impacts on all real-time applications
 bv=F
 # Question 'bw': True or false: Network resource allocation is either one of router-centric or host-centric
