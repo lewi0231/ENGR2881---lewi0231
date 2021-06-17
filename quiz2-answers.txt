@@ -48,7 +48,7 @@ ax=F
 # Question 'ay': True or false: Packet Shuffling is typically the mechanism by which Quality-of-Service policies are put into effect
 ay=F
 # Question 'az': True or false: Distance-Vector Multicast forwards received multicast packets received from any router on all outgoing links
-az=
+az=T
 # Question 'ba': True or false: RSVP can be used for both unicast and multicast flows
 ba=T
 # Question 'bb': True or false: It is common for intolerant real-time applications to mitigate their intolerance through delay adaptivity
@@ -98,35 +98,35 @@ bw=T
 # Question 'bx': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
 bx=F
 # Question 'by': True or false: Routing Areas refer to the different algorithm areas in routing protocol design
-by=
+by=F
 # Question 'bz': True or false: The UDP protocol demultiplexes packets arriving at an application into separate queues based on which host they came from
-bz=
+bz=F
 # Question 'ca': True or false: Network Address Translation is used to avoid exhaustion of Autonomous System numbers
-ca=
+ca=F
 # Question 'cb': True or false: A Multihomed Autonomous System has multiple connections to other Autonomous Systems, allowing it to carry both local and transit traffic
-cb=
+cb=F
 # Question 'cc': True or false: The TCP source port field is at byte offset 0 in the TCP header
-cc=
+cc=T
 # Question 'cd': True or false: A network flow is similar to a channel, but is visible to a given router, rather than being an end-to-end abstraction
-cd=
+cd=F
 # Question 'ce': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
-ce=
+ce=T
 # Question 'cf': True or false: Inter-domain routing exists to find optimal routes among the many supplied paths between destinations
-cf=
+cf=F
 # Question 'cg': True or false: The TCP Slow Start algorithm runs at the start of a connection, until the first packet loss occurs
 cg=F
 # Question 'ch': True or false: Real-time network applications require accurate network time synchronisation, so that latency can be minimised
-ch=
+ch=T
 # Question 'ci': True or false: TCP is byte-oriented
 ci=T
 # Question 'cj': True or false: The Jacobson/Karels algorithm uses a retransmission delay close to the estimated RTT when RTT variance is small, but which grows quickly as the variation in RTT grows
-cj=
+cj=F
 # Question 'ck': True or false: Jain's Fairness Index is a commonly used approach to assess the fairness of a congestion control algorithm
 ck=T
 # Question 'cl': True or false: As a byte-oriented protocol, TCP sends one byte at a time
 cl=F
 # Question 'cm': True or false: TCP's congestion control algorithm requires hosts have access to an accurate time authority, such as provided by Network Time Protocol (NTP)
-cm=
+cm=T
 # Question 'cn': True or false: Exterior Gateway Protocol replaced Border Gateway Protocol because it was able to enforce a more efficient tree-like topology
 cn=F
 # Question 'co': True or false: Flowspec is a mechanism in RSVP for providing routers with additional information to enable them to better meet quality-of-service promises
