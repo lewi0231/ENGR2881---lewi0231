@@ -1,6 +1,6 @@
 quiz1 PROVISIONAL GRADE: DN
 
-NOTE: Changes made after Thu Jul 8 10:52:34 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu Jul 8 16:06:48 2021 +0930 have not yet been graded.
 
 SUMMARY: 75 true/false and yes/no questions: 63 correct, 12 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
