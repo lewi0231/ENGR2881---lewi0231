@@ -1,10 +1,6 @@
-NOTICE: There is a known issue with questions in section 2 of this work unit
-being graded as incorrect, even if they are correct.  I intend to correct this problem
-in the next few days.
-
 unit2 PROVISIONAL GRADE: HD
 
-NOTE: Changes made after Thu Jul 8 18:09:00 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu Jul 8 18:11:04 2021 +0930 have not yet been graded.
 
 SUMMARY: 15 true/false and yes/no questions: 11 correct, 4 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
